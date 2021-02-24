@@ -1,0 +1,3859 @@
+{
+  "data": {
+    "0": {
+      "calibration": "calibration/000000.json",
+      "camera_front": "camera_front/000000.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000000.json",
+      "lidar_vlp16": "lidar_vlp16/000000.txt",
+      "radar_6455": "radar_6455/000000.txt"
+    },
+    "1": {
+      "calibration": "calibration/000001.json",
+      "camera_front": "camera_front/000001.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000001.json",
+      "lidar_vlp16": "lidar_vlp16/000001.txt",
+      "radar_6455": "radar_6455/000001.txt"
+    },
+    "2": {
+      "calibration": "calibration/000002.json",
+      "camera_front": "camera_front/000002.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000002.json",
+      "lidar_vlp16": "lidar_vlp16/000002.txt",
+      "radar_6455": "radar_6455/000002.txt"
+    },
+    "3": {
+      "calibration": "calibration/000003.json",
+      "camera_front": "camera_front/000003.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000003.json",
+      "lidar_vlp16": "lidar_vlp16/000003.txt",
+      "radar_6455": "radar_6455/000003.txt"
+    },
+    "4": {
+      "calibration": "calibration/000004.json",
+      "camera_front": "camera_front/000004.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000004.json",
+      "lidar_vlp16": "lidar_vlp16/000004.txt",
+      "radar_6455": "radar_6455/000004.txt"
+    },
+    "5": {
+      "calibration": "calibration/000005.json",
+      "camera_front": "camera_front/000005.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000005.json",
+      "lidar_vlp16": "lidar_vlp16/000005.txt",
+      "radar_6455": "radar_6455/000005.txt"
+    },
+    "6": {
+      "calibration": "calibration/000006.json",
+      "camera_front": "camera_front/000006.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000006.json",
+      "lidar_vlp16": "lidar_vlp16/000006.txt",
+      "radar_6455": "radar_6455/000006.txt"
+    },
+    "7": {
+      "calibration": "calibration/000007.json",
+      "camera_front": "camera_front/000007.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000007.json",
+      "lidar_vlp16": "lidar_vlp16/000007.txt",
+      "radar_6455": "radar_6455/000007.txt"
+    },
+    "8": {
+      "calibration": "calibration/000008.json",
+      "camera_front": "camera_front/000008.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000008.json",
+      "lidar_vlp16": "lidar_vlp16/000008.txt",
+      "radar_6455": "radar_6455/000008.txt"
+    },
+    "9": {
+      "calibration": "calibration/000009.json",
+      "camera_front": "camera_front/000009.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000009.json",
+      "lidar_vlp16": "lidar_vlp16/000009.txt",
+      "radar_6455": "radar_6455/000009.txt"
+    },
+    "10": {
+      "calibration": "calibration/000010.json",
+      "camera_front": "camera_front/000010.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000010.json",
+      "lidar_vlp16": "lidar_vlp16/000010.txt",
+      "radar_6455": "radar_6455/000010.txt"
+    },
+    "11": {
+      "calibration": "calibration/000011.json",
+      "camera_front": "camera_front/000011.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000011.json",
+      "lidar_vlp16": "lidar_vlp16/000011.txt",
+      "radar_6455": "radar_6455/000011.txt"
+    },
+    "12": {
+      "calibration": "calibration/000012.json",
+      "camera_front": "camera_front/000012.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000012.json",
+      "lidar_vlp16": "lidar_vlp16/000012.txt",
+      "radar_6455": "radar_6455/000012.txt"
+    },
+    "13": {
+      "calibration": "calibration/000013.json",
+      "camera_front": "camera_front/000013.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000013.json",
+      "lidar_vlp16": "lidar_vlp16/000013.txt",
+      "radar_6455": "radar_6455/000013.txt"
+    },
+    "14": {
+      "calibration": "calibration/000014.json",
+      "camera_front": "camera_front/000014.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000014.json",
+      "lidar_vlp16": "lidar_vlp16/000014.txt",
+      "radar_6455": "radar_6455/000014.txt"
+    },
+    "15": {
+      "calibration": "calibration/000015.json",
+      "camera_front": "camera_front/000015.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000015.json",
+      "lidar_vlp16": "lidar_vlp16/000015.txt",
+      "radar_6455": "radar_6455/000015.txt"
+    },
+    "16": {
+      "calibration": "calibration/000016.json",
+      "camera_front": "camera_front/000016.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000016.json",
+      "lidar_vlp16": "lidar_vlp16/000016.txt",
+      "radar_6455": "radar_6455/000016.txt"
+    },
+    "17": {
+      "calibration": "calibration/000017.json",
+      "camera_front": "camera_front/000017.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000017.json",
+      "lidar_vlp16": "lidar_vlp16/000017.txt",
+      "radar_6455": "radar_6455/000017.txt"
+    },
+    "18": {
+      "calibration": "calibration/000018.json",
+      "camera_front": "camera_front/000018.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000018.json",
+      "lidar_vlp16": "lidar_vlp16/000018.txt",
+      "radar_6455": "radar_6455/000018.txt"
+    },
+    "19": {
+      "calibration": "calibration/000019.json",
+      "camera_front": "camera_front/000019.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000019.json",
+      "lidar_vlp16": "lidar_vlp16/000019.txt",
+      "radar_6455": "radar_6455/000019.txt"
+    },
+    "20": {
+      "calibration": "calibration/000020.json",
+      "camera_front": "camera_front/000020.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000020.json",
+      "lidar_vlp16": "lidar_vlp16/000020.txt",
+      "radar_6455": "radar_6455/000020.txt"
+    },
+    "21": {
+      "calibration": "calibration/000021.json",
+      "camera_front": "camera_front/000021.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000021.json",
+      "lidar_vlp16": "lidar_vlp16/000021.txt",
+      "radar_6455": "radar_6455/000021.txt"
+    },
+    "22": {
+      "calibration": "calibration/000022.json",
+      "camera_front": "camera_front/000022.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000022.json",
+      "lidar_vlp16": "lidar_vlp16/000022.txt",
+      "radar_6455": "radar_6455/000022.txt"
+    },
+    "23": {
+      "calibration": "calibration/000023.json",
+      "camera_front": "camera_front/000023.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000023.json",
+      "lidar_vlp16": "lidar_vlp16/000023.txt",
+      "radar_6455": "radar_6455/000023.txt"
+    },
+    "24": {
+      "calibration": "calibration/000024.json",
+      "camera_front": "camera_front/000024.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000024.json",
+      "lidar_vlp16": "lidar_vlp16/000024.txt",
+      "radar_6455": "radar_6455/000024.txt"
+    },
+    "25": {
+      "calibration": "calibration/000025.json",
+      "camera_front": "camera_front/000025.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000025.json",
+      "lidar_vlp16": "lidar_vlp16/000025.txt",
+      "radar_6455": "radar_6455/000025.txt"
+    },
+    "26": {
+      "calibration": "calibration/000026.json",
+      "camera_front": "camera_front/000026.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000026.json",
+      "lidar_vlp16": "lidar_vlp16/000026.txt",
+      "radar_6455": "radar_6455/000026.txt"
+    },
+    "27": {
+      "calibration": "calibration/000027.json",
+      "camera_front": "camera_front/000027.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000027.json",
+      "lidar_vlp16": "lidar_vlp16/000027.txt",
+      "radar_6455": "radar_6455/000027.txt"
+    },
+    "28": {
+      "calibration": "calibration/000028.json",
+      "camera_front": "camera_front/000028.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000028.json",
+      "lidar_vlp16": "lidar_vlp16/000028.txt",
+      "radar_6455": "radar_6455/000028.txt"
+    },
+    "29": {
+      "calibration": "calibration/000029.json",
+      "camera_front": "camera_front/000029.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000029.json",
+      "lidar_vlp16": "lidar_vlp16/000029.txt",
+      "radar_6455": "radar_6455/000029.txt"
+    },
+    "30": {
+      "calibration": "calibration/000030.json",
+      "camera_front": "camera_front/000030.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000030.json",
+      "lidar_vlp16": "lidar_vlp16/000030.txt",
+      "radar_6455": "radar_6455/000030.txt"
+    },
+    "31": {
+      "calibration": "calibration/000031.json",
+      "camera_front": "camera_front/000031.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000031.json",
+      "lidar_vlp16": "lidar_vlp16/000031.txt",
+      "radar_6455": "radar_6455/000031.txt"
+    },
+    "32": {
+      "calibration": "calibration/000032.json",
+      "camera_front": "camera_front/000032.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000032.json",
+      "lidar_vlp16": "lidar_vlp16/000032.txt",
+      "radar_6455": "radar_6455/000032.txt"
+    },
+    "33": {
+      "calibration": "calibration/000033.json",
+      "camera_front": "camera_front/000033.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000033.json",
+      "lidar_vlp16": "lidar_vlp16/000033.txt",
+      "radar_6455": "radar_6455/000033.txt"
+    },
+    "34": {
+      "calibration": "calibration/000034.json",
+      "camera_front": "camera_front/000034.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000034.json",
+      "lidar_vlp16": "lidar_vlp16/000034.txt",
+      "radar_6455": "radar_6455/000034.txt"
+    },
+    "35": {
+      "calibration": "calibration/000035.json",
+      "camera_front": "camera_front/000035.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000035.json",
+      "lidar_vlp16": "lidar_vlp16/000035.txt",
+      "radar_6455": "radar_6455/000035.txt"
+    },
+    "36": {
+      "calibration": "calibration/000036.json",
+      "camera_front": "camera_front/000036.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000036.json",
+      "lidar_vlp16": "lidar_vlp16/000036.txt",
+      "radar_6455": "radar_6455/000036.txt"
+    },
+    "37": {
+      "calibration": "calibration/000037.json",
+      "camera_front": "camera_front/000037.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000037.json",
+      "lidar_vlp16": "lidar_vlp16/000037.txt",
+      "radar_6455": "radar_6455/000037.txt"
+    },
+    "38": {
+      "calibration": "calibration/000038.json",
+      "camera_front": "camera_front/000038.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000038.json",
+      "lidar_vlp16": "lidar_vlp16/000038.txt",
+      "radar_6455": "radar_6455/000038.txt"
+    },
+    "39": {
+      "calibration": "calibration/000039.json",
+      "camera_front": "camera_front/000039.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000039.json",
+      "lidar_vlp16": "lidar_vlp16/000039.txt",
+      "radar_6455": "radar_6455/000039.txt"
+    },
+    "40": {
+      "calibration": "calibration/000040.json",
+      "camera_front": "camera_front/000040.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000040.json",
+      "lidar_vlp16": "lidar_vlp16/000040.txt",
+      "radar_6455": "radar_6455/000040.txt"
+    },
+    "41": {
+      "calibration": "calibration/000041.json",
+      "camera_front": "camera_front/000041.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000041.json",
+      "lidar_vlp16": "lidar_vlp16/000041.txt",
+      "radar_6455": "radar_6455/000041.txt"
+    },
+    "42": {
+      "calibration": "calibration/000042.json",
+      "camera_front": "camera_front/000042.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000042.json",
+      "lidar_vlp16": "lidar_vlp16/000042.txt",
+      "radar_6455": "radar_6455/000042.txt"
+    },
+    "43": {
+      "calibration": "calibration/000043.json",
+      "camera_front": "camera_front/000043.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000043.json",
+      "lidar_vlp16": "lidar_vlp16/000043.txt",
+      "radar_6455": "radar_6455/000043.txt"
+    },
+    "44": {
+      "calibration": "calibration/000044.json",
+      "camera_front": "camera_front/000044.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000044.json",
+      "lidar_vlp16": "lidar_vlp16/000044.txt",
+      "radar_6455": "radar_6455/000044.txt"
+    },
+    "45": {
+      "calibration": "calibration/000045.json",
+      "camera_front": "camera_front/000045.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000045.json",
+      "lidar_vlp16": "lidar_vlp16/000045.txt",
+      "radar_6455": "radar_6455/000045.txt"
+    },
+    "46": {
+      "calibration": "calibration/000046.json",
+      "camera_front": "camera_front/000046.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000046.json",
+      "lidar_vlp16": "lidar_vlp16/000046.txt",
+      "radar_6455": "radar_6455/000046.txt"
+    },
+    "47": {
+      "calibration": "calibration/000047.json",
+      "camera_front": "camera_front/000047.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000047.json",
+      "lidar_vlp16": "lidar_vlp16/000047.txt",
+      "radar_6455": "radar_6455/000047.txt"
+    },
+    "48": {
+      "calibration": "calibration/000048.json",
+      "camera_front": "camera_front/000048.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000048.json",
+      "lidar_vlp16": "lidar_vlp16/000048.txt",
+      "radar_6455": "radar_6455/000048.txt"
+    },
+    "49": {
+      "calibration": "calibration/000049.json",
+      "camera_front": "camera_front/000049.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000049.json",
+      "lidar_vlp16": "lidar_vlp16/000049.txt",
+      "radar_6455": "radar_6455/000049.txt"
+    },
+    "50": {
+      "calibration": "calibration/000050.json",
+      "camera_front": "camera_front/000050.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000050.json",
+      "lidar_vlp16": "lidar_vlp16/000050.txt",
+      "radar_6455": "radar_6455/000050.txt"
+    },
+    "51": {
+      "calibration": "calibration/000051.json",
+      "camera_front": "camera_front/000051.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000051.json",
+      "lidar_vlp16": "lidar_vlp16/000051.txt",
+      "radar_6455": "radar_6455/000051.txt"
+    },
+    "52": {
+      "calibration": "calibration/000052.json",
+      "camera_front": "camera_front/000052.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000052.json",
+      "lidar_vlp16": "lidar_vlp16/000052.txt",
+      "radar_6455": "radar_6455/000052.txt"
+    },
+    "53": {
+      "calibration": "calibration/000053.json",
+      "camera_front": "camera_front/000053.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000053.json",
+      "lidar_vlp16": "lidar_vlp16/000053.txt",
+      "radar_6455": "radar_6455/000053.txt"
+    },
+    "54": {
+      "calibration": "calibration/000054.json",
+      "camera_front": "camera_front/000054.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000054.json",
+      "lidar_vlp16": "lidar_vlp16/000054.txt",
+      "radar_6455": "radar_6455/000054.txt"
+    },
+    "55": {
+      "calibration": "calibration/000055.json",
+      "camera_front": "camera_front/000055.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000055.json",
+      "lidar_vlp16": "lidar_vlp16/000055.txt",
+      "radar_6455": "radar_6455/000055.txt"
+    },
+    "56": {
+      "calibration": "calibration/000056.json",
+      "camera_front": "camera_front/000056.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000056.json",
+      "lidar_vlp16": "lidar_vlp16/000056.txt",
+      "radar_6455": "radar_6455/000056.txt"
+    },
+    "57": {
+      "calibration": "calibration/000057.json",
+      "camera_front": "camera_front/000057.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000057.json",
+      "lidar_vlp16": "lidar_vlp16/000057.txt",
+      "radar_6455": "radar_6455/000057.txt"
+    },
+    "58": {
+      "calibration": "calibration/000058.json",
+      "camera_front": "camera_front/000058.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000058.json",
+      "lidar_vlp16": "lidar_vlp16/000058.txt",
+      "radar_6455": "radar_6455/000058.txt"
+    },
+    "59": {
+      "calibration": "calibration/000059.json",
+      "camera_front": "camera_front/000059.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000059.json",
+      "lidar_vlp16": "lidar_vlp16/000059.txt",
+      "radar_6455": "radar_6455/000059.txt"
+    },
+    "60": {
+      "calibration": "calibration/000060.json",
+      "camera_front": "camera_front/000060.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000060.json",
+      "lidar_vlp16": "lidar_vlp16/000060.txt",
+      "radar_6455": "radar_6455/000060.txt"
+    },
+    "61": {
+      "calibration": "calibration/000061.json",
+      "camera_front": "camera_front/000061.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000061.json",
+      "lidar_vlp16": "lidar_vlp16/000061.txt",
+      "radar_6455": "radar_6455/000061.txt"
+    },
+    "62": {
+      "calibration": "calibration/000062.json",
+      "camera_front": "camera_front/000062.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000062.json",
+      "lidar_vlp16": "lidar_vlp16/000062.txt",
+      "radar_6455": "radar_6455/000062.txt"
+    },
+    "63": {
+      "calibration": "calibration/000063.json",
+      "camera_front": "camera_front/000063.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000063.json",
+      "lidar_vlp16": "lidar_vlp16/000063.txt",
+      "radar_6455": "radar_6455/000063.txt"
+    },
+    "64": {
+      "calibration": "calibration/000064.json",
+      "camera_front": "camera_front/000064.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000064.json",
+      "lidar_vlp16": "lidar_vlp16/000064.txt",
+      "radar_6455": "radar_6455/000064.txt"
+    },
+    "65": {
+      "calibration": "calibration/000065.json",
+      "camera_front": "camera_front/000065.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000065.json",
+      "lidar_vlp16": "lidar_vlp16/000065.txt",
+      "radar_6455": "radar_6455/000065.txt"
+    },
+    "66": {
+      "calibration": "calibration/000066.json",
+      "camera_front": "camera_front/000066.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000066.json",
+      "lidar_vlp16": "lidar_vlp16/000066.txt",
+      "radar_6455": "radar_6455/000066.txt"
+    },
+    "67": {
+      "calibration": "calibration/000067.json",
+      "camera_front": "camera_front/000067.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000067.json",
+      "lidar_vlp16": "lidar_vlp16/000067.txt",
+      "radar_6455": "radar_6455/000067.txt"
+    },
+    "68": {
+      "calibration": "calibration/000068.json",
+      "camera_front": "camera_front/000068.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000068.json",
+      "lidar_vlp16": "lidar_vlp16/000068.txt",
+      "radar_6455": "radar_6455/000068.txt"
+    },
+    "69": {
+      "calibration": "calibration/000069.json",
+      "camera_front": "camera_front/000069.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000069.json",
+      "lidar_vlp16": "lidar_vlp16/000069.txt",
+      "radar_6455": "radar_6455/000069.txt"
+    },
+    "70": {
+      "calibration": "calibration/000070.json",
+      "camera_front": "camera_front/000070.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000070.json",
+      "lidar_vlp16": "lidar_vlp16/000070.txt",
+      "radar_6455": "radar_6455/000070.txt"
+    },
+    "71": {
+      "calibration": "calibration/000071.json",
+      "camera_front": "camera_front/000071.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000071.json",
+      "lidar_vlp16": "lidar_vlp16/000071.txt",
+      "radar_6455": "radar_6455/000071.txt"
+    },
+    "72": {
+      "calibration": "calibration/000072.json",
+      "camera_front": "camera_front/000072.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000072.json",
+      "lidar_vlp16": "lidar_vlp16/000072.txt",
+      "radar_6455": "radar_6455/000072.txt"
+    },
+    "73": {
+      "calibration": "calibration/000073.json",
+      "camera_front": "camera_front/000073.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000073.json",
+      "lidar_vlp16": "lidar_vlp16/000073.txt",
+      "radar_6455": "radar_6455/000073.txt"
+    },
+    "74": {
+      "calibration": "calibration/000074.json",
+      "camera_front": "camera_front/000074.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000074.json",
+      "lidar_vlp16": "lidar_vlp16/000074.txt",
+      "radar_6455": "radar_6455/000074.txt"
+    },
+    "75": {
+      "calibration": "calibration/000075.json",
+      "camera_front": "camera_front/000075.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000075.json",
+      "lidar_vlp16": "lidar_vlp16/000075.txt",
+      "radar_6455": "radar_6455/000075.txt"
+    },
+    "76": {
+      "calibration": "calibration/000076.json",
+      "camera_front": "camera_front/000076.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000076.json",
+      "lidar_vlp16": "lidar_vlp16/000076.txt",
+      "radar_6455": "radar_6455/000076.txt"
+    },
+    "77": {
+      "calibration": "calibration/000077.json",
+      "camera_front": "camera_front/000077.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000077.json",
+      "lidar_vlp16": "lidar_vlp16/000077.txt",
+      "radar_6455": "radar_6455/000077.txt"
+    },
+    "78": {
+      "calibration": "calibration/000078.json",
+      "camera_front": "camera_front/000078.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000078.json",
+      "lidar_vlp16": "lidar_vlp16/000078.txt",
+      "radar_6455": "radar_6455/000078.txt"
+    },
+    "79": {
+      "calibration": "calibration/000079.json",
+      "camera_front": "camera_front/000079.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000079.json",
+      "lidar_vlp16": "lidar_vlp16/000079.txt",
+      "radar_6455": "radar_6455/000079.txt"
+    },
+    "80": {
+      "calibration": "calibration/000080.json",
+      "camera_front": "camera_front/000080.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000080.json",
+      "lidar_vlp16": "lidar_vlp16/000080.txt",
+      "radar_6455": "radar_6455/000080.txt"
+    },
+    "81": {
+      "calibration": "calibration/000081.json",
+      "camera_front": "camera_front/000081.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000081.json",
+      "lidar_vlp16": "lidar_vlp16/000081.txt",
+      "radar_6455": "radar_6455/000081.txt"
+    },
+    "82": {
+      "calibration": "calibration/000082.json",
+      "camera_front": "camera_front/000082.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000082.json",
+      "lidar_vlp16": "lidar_vlp16/000082.txt",
+      "radar_6455": "radar_6455/000082.txt"
+    },
+    "83": {
+      "calibration": "calibration/000083.json",
+      "camera_front": "camera_front/000083.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000083.json",
+      "lidar_vlp16": "lidar_vlp16/000083.txt",
+      "radar_6455": "radar_6455/000083.txt"
+    },
+    "84": {
+      "calibration": "calibration/000084.json",
+      "camera_front": "camera_front/000084.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000084.json",
+      "lidar_vlp16": "lidar_vlp16/000084.txt",
+      "radar_6455": "radar_6455/000084.txt"
+    },
+    "85": {
+      "calibration": "calibration/000085.json",
+      "camera_front": "camera_front/000085.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000085.json",
+      "lidar_vlp16": "lidar_vlp16/000085.txt",
+      "radar_6455": "radar_6455/000085.txt"
+    },
+    "86": {
+      "calibration": "calibration/000086.json",
+      "camera_front": "camera_front/000086.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000086.json",
+      "lidar_vlp16": "lidar_vlp16/000086.txt",
+      "radar_6455": "radar_6455/000086.txt"
+    },
+    "87": {
+      "calibration": "calibration/000087.json",
+      "camera_front": "camera_front/000087.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000087.json",
+      "lidar_vlp16": "lidar_vlp16/000087.txt",
+      "radar_6455": "radar_6455/000087.txt"
+    },
+    "88": {
+      "calibration": "calibration/000088.json",
+      "camera_front": "camera_front/000088.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000088.json",
+      "lidar_vlp16": "lidar_vlp16/000088.txt",
+      "radar_6455": "radar_6455/000088.txt"
+    },
+    "89": {
+      "calibration": "calibration/000089.json",
+      "camera_front": "camera_front/000089.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000089.json",
+      "lidar_vlp16": "lidar_vlp16/000089.txt",
+      "radar_6455": "radar_6455/000089.txt"
+    },
+    "90": {
+      "calibration": "calibration/000090.json",
+      "camera_front": "camera_front/000090.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000090.json",
+      "lidar_vlp16": "lidar_vlp16/000090.txt",
+      "radar_6455": "radar_6455/000090.txt"
+    },
+    "91": {
+      "calibration": "calibration/000091.json",
+      "camera_front": "camera_front/000091.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000091.json",
+      "lidar_vlp16": "lidar_vlp16/000091.txt",
+      "radar_6455": "radar_6455/000091.txt"
+    },
+    "92": {
+      "calibration": "calibration/000092.json",
+      "camera_front": "camera_front/000092.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000092.json",
+      "lidar_vlp16": "lidar_vlp16/000092.txt",
+      "radar_6455": "radar_6455/000092.txt"
+    },
+    "93": {
+      "calibration": "calibration/000093.json",
+      "camera_front": "camera_front/000093.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000093.json",
+      "lidar_vlp16": "lidar_vlp16/000093.txt",
+      "radar_6455": "radar_6455/000093.txt"
+    },
+    "94": {
+      "calibration": "calibration/000094.json",
+      "camera_front": "camera_front/000094.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000094.json",
+      "lidar_vlp16": "lidar_vlp16/000094.txt",
+      "radar_6455": "radar_6455/000094.txt"
+    },
+    "95": {
+      "calibration": "calibration/000095.json",
+      "camera_front": "camera_front/000095.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000095.json",
+      "lidar_vlp16": "lidar_vlp16/000095.txt",
+      "radar_6455": "radar_6455/000095.txt"
+    },
+    "96": {
+      "calibration": "calibration/000096.json",
+      "camera_front": "camera_front/000096.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000096.json",
+      "lidar_vlp16": "lidar_vlp16/000096.txt",
+      "radar_6455": "radar_6455/000096.txt"
+    },
+    "97": {
+      "calibration": "calibration/000097.json",
+      "camera_front": "camera_front/000097.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000097.json",
+      "lidar_vlp16": "lidar_vlp16/000097.txt",
+      "radar_6455": "radar_6455/000097.txt"
+    },
+    "98": {
+      "calibration": "calibration/000098.json",
+      "camera_front": "camera_front/000098.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000098.json",
+      "lidar_vlp16": "lidar_vlp16/000098.txt",
+      "radar_6455": "radar_6455/000098.txt"
+    },
+    "99": {
+      "calibration": "calibration/000099.json",
+      "camera_front": "camera_front/000099.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000099.json",
+      "lidar_vlp16": "lidar_vlp16/000099.txt",
+      "radar_6455": "radar_6455/000099.txt"
+    },
+    "100": {
+      "calibration": "calibration/000100.json",
+      "camera_front": "camera_front/000100.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000100.json",
+      "lidar_vlp16": "lidar_vlp16/000100.txt",
+      "radar_6455": "radar_6455/000100.txt"
+    },
+    "101": {
+      "calibration": "calibration/000101.json",
+      "camera_front": "camera_front/000101.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000101.json",
+      "lidar_vlp16": "lidar_vlp16/000101.txt",
+      "radar_6455": "radar_6455/000101.txt"
+    },
+    "102": {
+      "calibration": "calibration/000102.json",
+      "camera_front": "camera_front/000102.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000102.json",
+      "lidar_vlp16": "lidar_vlp16/000102.txt",
+      "radar_6455": "radar_6455/000102.txt"
+    },
+    "103": {
+      "calibration": "calibration/000103.json",
+      "camera_front": "camera_front/000103.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000103.json",
+      "lidar_vlp16": "lidar_vlp16/000103.txt",
+      "radar_6455": "radar_6455/000103.txt"
+    },
+    "104": {
+      "calibration": "calibration/000104.json",
+      "camera_front": "camera_front/000104.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000104.json",
+      "lidar_vlp16": "lidar_vlp16/000104.txt",
+      "radar_6455": "radar_6455/000104.txt"
+    },
+    "105": {
+      "calibration": "calibration/000105.json",
+      "camera_front": "camera_front/000105.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000105.json",
+      "lidar_vlp16": "lidar_vlp16/000105.txt",
+      "radar_6455": "radar_6455/000105.txt"
+    },
+    "106": {
+      "calibration": "calibration/000106.json",
+      "camera_front": "camera_front/000106.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000106.json",
+      "lidar_vlp16": "lidar_vlp16/000106.txt",
+      "radar_6455": "radar_6455/000106.txt"
+    },
+    "107": {
+      "calibration": "calibration/000107.json",
+      "camera_front": "camera_front/000107.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000107.json",
+      "lidar_vlp16": "lidar_vlp16/000107.txt",
+      "radar_6455": "radar_6455/000107.txt"
+    },
+    "108": {
+      "calibration": "calibration/000108.json",
+      "camera_front": "camera_front/000108.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000108.json",
+      "lidar_vlp16": "lidar_vlp16/000108.txt",
+      "radar_6455": "radar_6455/000108.txt"
+    },
+    "109": {
+      "calibration": "calibration/000109.json",
+      "camera_front": "camera_front/000109.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000109.json",
+      "lidar_vlp16": "lidar_vlp16/000109.txt",
+      "radar_6455": "radar_6455/000109.txt"
+    },
+    "110": {
+      "calibration": "calibration/000110.json",
+      "camera_front": "camera_front/000110.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000110.json",
+      "lidar_vlp16": "lidar_vlp16/000110.txt",
+      "radar_6455": "radar_6455/000110.txt"
+    },
+    "111": {
+      "calibration": "calibration/000111.json",
+      "camera_front": "camera_front/000111.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000111.json",
+      "lidar_vlp16": "lidar_vlp16/000111.txt",
+      "radar_6455": "radar_6455/000111.txt"
+    },
+    "112": {
+      "calibration": "calibration/000112.json",
+      "camera_front": "camera_front/000112.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000112.json",
+      "lidar_vlp16": "lidar_vlp16/000112.txt",
+      "radar_6455": "radar_6455/000112.txt"
+    },
+    "113": {
+      "calibration": "calibration/000113.json",
+      "camera_front": "camera_front/000113.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000113.json",
+      "lidar_vlp16": "lidar_vlp16/000113.txt",
+      "radar_6455": "radar_6455/000113.txt"
+    },
+    "114": {
+      "calibration": "calibration/000114.json",
+      "camera_front": "camera_front/000114.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000114.json",
+      "lidar_vlp16": "lidar_vlp16/000114.txt",
+      "radar_6455": "radar_6455/000114.txt"
+    },
+    "115": {
+      "calibration": "calibration/000115.json",
+      "camera_front": "camera_front/000115.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000115.json",
+      "lidar_vlp16": "lidar_vlp16/000115.txt",
+      "radar_6455": "radar_6455/000115.txt"
+    },
+    "116": {
+      "calibration": "calibration/000116.json",
+      "camera_front": "camera_front/000116.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000116.json",
+      "lidar_vlp16": "lidar_vlp16/000116.txt",
+      "radar_6455": "radar_6455/000116.txt"
+    },
+    "117": {
+      "calibration": "calibration/000117.json",
+      "camera_front": "camera_front/000117.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000117.json",
+      "lidar_vlp16": "lidar_vlp16/000117.txt",
+      "radar_6455": "radar_6455/000117.txt"
+    },
+    "118": {
+      "calibration": "calibration/000118.json",
+      "camera_front": "camera_front/000118.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000118.json",
+      "lidar_vlp16": "lidar_vlp16/000118.txt",
+      "radar_6455": "radar_6455/000118.txt"
+    },
+    "119": {
+      "calibration": "calibration/000119.json",
+      "camera_front": "camera_front/000119.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000119.json",
+      "lidar_vlp16": "lidar_vlp16/000119.txt",
+      "radar_6455": "radar_6455/000119.txt"
+    },
+    "120": {
+      "calibration": "calibration/000120.json",
+      "camera_front": "camera_front/000120.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000120.json",
+      "lidar_vlp16": "lidar_vlp16/000120.txt",
+      "radar_6455": "radar_6455/000120.txt"
+    },
+    "121": {
+      "calibration": "calibration/000121.json",
+      "camera_front": "camera_front/000121.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000121.json",
+      "lidar_vlp16": "lidar_vlp16/000121.txt",
+      "radar_6455": "radar_6455/000121.txt"
+    },
+    "122": {
+      "calibration": "calibration/000122.json",
+      "camera_front": "camera_front/000122.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000122.json",
+      "lidar_vlp16": "lidar_vlp16/000122.txt",
+      "radar_6455": "radar_6455/000122.txt"
+    },
+    "123": {
+      "calibration": "calibration/000123.json",
+      "camera_front": "camera_front/000123.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000123.json",
+      "lidar_vlp16": "lidar_vlp16/000123.txt",
+      "radar_6455": "radar_6455/000123.txt"
+    },
+    "124": {
+      "calibration": "calibration/000124.json",
+      "camera_front": "camera_front/000124.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000124.json",
+      "lidar_vlp16": "lidar_vlp16/000124.txt",
+      "radar_6455": "radar_6455/000124.txt"
+    },
+    "125": {
+      "calibration": "calibration/000125.json",
+      "camera_front": "camera_front/000125.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000125.json",
+      "lidar_vlp16": "lidar_vlp16/000125.txt",
+      "radar_6455": "radar_6455/000125.txt"
+    },
+    "126": {
+      "calibration": "calibration/000126.json",
+      "camera_front": "camera_front/000126.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000126.json",
+      "lidar_vlp16": "lidar_vlp16/000126.txt",
+      "radar_6455": "radar_6455/000126.txt"
+    },
+    "127": {
+      "calibration": "calibration/000127.json",
+      "camera_front": "camera_front/000127.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000127.json",
+      "lidar_vlp16": "lidar_vlp16/000127.txt",
+      "radar_6455": "radar_6455/000127.txt"
+    },
+    "128": {
+      "calibration": "calibration/000128.json",
+      "camera_front": "camera_front/000128.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000128.json",
+      "lidar_vlp16": "lidar_vlp16/000128.txt",
+      "radar_6455": "radar_6455/000128.txt"
+    },
+    "129": {
+      "calibration": "calibration/000129.json",
+      "camera_front": "camera_front/000129.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000129.json",
+      "lidar_vlp16": "lidar_vlp16/000129.txt",
+      "radar_6455": "radar_6455/000129.txt"
+    },
+    "130": {
+      "calibration": "calibration/000130.json",
+      "camera_front": "camera_front/000130.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000130.json",
+      "lidar_vlp16": "lidar_vlp16/000130.txt",
+      "radar_6455": "radar_6455/000130.txt"
+    },
+    "131": {
+      "calibration": "calibration/000131.json",
+      "camera_front": "camera_front/000131.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000131.json",
+      "lidar_vlp16": "lidar_vlp16/000131.txt",
+      "radar_6455": "radar_6455/000131.txt"
+    },
+    "132": {
+      "calibration": "calibration/000132.json",
+      "camera_front": "camera_front/000132.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000132.json",
+      "lidar_vlp16": "lidar_vlp16/000132.txt",
+      "radar_6455": "radar_6455/000132.txt"
+    },
+    "133": {
+      "calibration": "calibration/000133.json",
+      "camera_front": "camera_front/000133.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000133.json",
+      "lidar_vlp16": "lidar_vlp16/000133.txt",
+      "radar_6455": "radar_6455/000133.txt"
+    },
+    "134": {
+      "calibration": "calibration/000134.json",
+      "camera_front": "camera_front/000134.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000134.json",
+      "lidar_vlp16": "lidar_vlp16/000134.txt",
+      "radar_6455": "radar_6455/000134.txt"
+    },
+    "135": {
+      "calibration": "calibration/000135.json",
+      "camera_front": "camera_front/000135.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000135.json",
+      "lidar_vlp16": "lidar_vlp16/000135.txt",
+      "radar_6455": "radar_6455/000135.txt"
+    },
+    "136": {
+      "calibration": "calibration/000136.json",
+      "camera_front": "camera_front/000136.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000136.json",
+      "lidar_vlp16": "lidar_vlp16/000136.txt",
+      "radar_6455": "radar_6455/000136.txt"
+    },
+    "137": {
+      "calibration": "calibration/000137.json",
+      "camera_front": "camera_front/000137.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000137.json",
+      "lidar_vlp16": "lidar_vlp16/000137.txt",
+      "radar_6455": "radar_6455/000137.txt"
+    },
+    "138": {
+      "calibration": "calibration/000138.json",
+      "camera_front": "camera_front/000138.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000138.json",
+      "lidar_vlp16": "lidar_vlp16/000138.txt",
+      "radar_6455": "radar_6455/000138.txt"
+    },
+    "139": {
+      "calibration": "calibration/000139.json",
+      "camera_front": "camera_front/000139.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000139.json",
+      "lidar_vlp16": "lidar_vlp16/000139.txt",
+      "radar_6455": "radar_6455/000139.txt"
+    },
+    "140": {
+      "calibration": "calibration/000140.json",
+      "camera_front": "camera_front/000140.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000140.json",
+      "lidar_vlp16": "lidar_vlp16/000140.txt",
+      "radar_6455": "radar_6455/000140.txt"
+    },
+    "141": {
+      "calibration": "calibration/000141.json",
+      "camera_front": "camera_front/000141.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000141.json",
+      "lidar_vlp16": "lidar_vlp16/000141.txt",
+      "radar_6455": "radar_6455/000141.txt"
+    },
+    "142": {
+      "calibration": "calibration/000142.json",
+      "camera_front": "camera_front/000142.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000142.json",
+      "lidar_vlp16": "lidar_vlp16/000142.txt",
+      "radar_6455": "radar_6455/000142.txt"
+    },
+    "143": {
+      "calibration": "calibration/000143.json",
+      "camera_front": "camera_front/000143.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000143.json",
+      "lidar_vlp16": "lidar_vlp16/000143.txt",
+      "radar_6455": "radar_6455/000143.txt"
+    },
+    "144": {
+      "calibration": "calibration/000144.json",
+      "camera_front": "camera_front/000144.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000144.json",
+      "lidar_vlp16": "lidar_vlp16/000144.txt",
+      "radar_6455": "radar_6455/000144.txt"
+    },
+    "145": {
+      "calibration": "calibration/000145.json",
+      "camera_front": "camera_front/000145.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000145.json",
+      "lidar_vlp16": "lidar_vlp16/000145.txt",
+      "radar_6455": "radar_6455/000145.txt"
+    },
+    "146": {
+      "calibration": "calibration/000146.json",
+      "camera_front": "camera_front/000146.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000146.json",
+      "lidar_vlp16": "lidar_vlp16/000146.txt",
+      "radar_6455": "radar_6455/000146.txt"
+    },
+    "147": {
+      "calibration": "calibration/000147.json",
+      "camera_front": "camera_front/000147.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000147.json",
+      "lidar_vlp16": "lidar_vlp16/000147.txt",
+      "radar_6455": "radar_6455/000147.txt"
+    },
+    "148": {
+      "calibration": "calibration/000148.json",
+      "camera_front": "camera_front/000148.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000148.json",
+      "lidar_vlp16": "lidar_vlp16/000148.txt",
+      "radar_6455": "radar_6455/000148.txt"
+    },
+    "149": {
+      "calibration": "calibration/000149.json",
+      "camera_front": "camera_front/000149.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000149.json",
+      "lidar_vlp16": "lidar_vlp16/000149.txt",
+      "radar_6455": "radar_6455/000149.txt"
+    },
+    "150": {
+      "calibration": "calibration/000150.json",
+      "camera_front": "camera_front/000150.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000150.json",
+      "lidar_vlp16": "lidar_vlp16/000150.txt",
+      "radar_6455": "radar_6455/000150.txt"
+    },
+    "151": {
+      "calibration": "calibration/000151.json",
+      "camera_front": "camera_front/000151.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000151.json",
+      "lidar_vlp16": "lidar_vlp16/000151.txt",
+      "radar_6455": "radar_6455/000151.txt"
+    },
+    "152": {
+      "calibration": "calibration/000152.json",
+      "camera_front": "camera_front/000152.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000152.json",
+      "lidar_vlp16": "lidar_vlp16/000152.txt",
+      "radar_6455": "radar_6455/000152.txt"
+    },
+    "153": {
+      "calibration": "calibration/000153.json",
+      "camera_front": "camera_front/000153.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000153.json",
+      "lidar_vlp16": "lidar_vlp16/000153.txt",
+      "radar_6455": "radar_6455/000153.txt"
+    },
+    "154": {
+      "calibration": "calibration/000154.json",
+      "camera_front": "camera_front/000154.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000154.json",
+      "lidar_vlp16": "lidar_vlp16/000154.txt",
+      "radar_6455": "radar_6455/000154.txt"
+    },
+    "155": {
+      "calibration": "calibration/000155.json",
+      "camera_front": "camera_front/000155.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000155.json",
+      "lidar_vlp16": "lidar_vlp16/000155.txt",
+      "radar_6455": "radar_6455/000155.txt"
+    },
+    "156": {
+      "calibration": "calibration/000156.json",
+      "camera_front": "camera_front/000156.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000156.json",
+      "lidar_vlp16": "lidar_vlp16/000156.txt",
+      "radar_6455": "radar_6455/000156.txt"
+    },
+    "157": {
+      "calibration": "calibration/000157.json",
+      "camera_front": "camera_front/000157.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000157.json",
+      "lidar_vlp16": "lidar_vlp16/000157.txt",
+      "radar_6455": "radar_6455/000157.txt"
+    },
+    "158": {
+      "calibration": "calibration/000158.json",
+      "camera_front": "camera_front/000158.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000158.json",
+      "lidar_vlp16": "lidar_vlp16/000158.txt",
+      "radar_6455": "radar_6455/000158.txt"
+    },
+    "159": {
+      "calibration": "calibration/000159.json",
+      "camera_front": "camera_front/000159.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000159.json",
+      "lidar_vlp16": "lidar_vlp16/000159.txt",
+      "radar_6455": "radar_6455/000159.txt"
+    },
+    "160": {
+      "calibration": "calibration/000160.json",
+      "camera_front": "camera_front/000160.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000160.json",
+      "lidar_vlp16": "lidar_vlp16/000160.txt",
+      "radar_6455": "radar_6455/000160.txt"
+    },
+    "161": {
+      "calibration": "calibration/000161.json",
+      "camera_front": "camera_front/000161.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000161.json",
+      "lidar_vlp16": "lidar_vlp16/000161.txt",
+      "radar_6455": "radar_6455/000161.txt"
+    },
+    "162": {
+      "calibration": "calibration/000162.json",
+      "camera_front": "camera_front/000162.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000162.json",
+      "lidar_vlp16": "lidar_vlp16/000162.txt",
+      "radar_6455": "radar_6455/000162.txt"
+    },
+    "163": {
+      "calibration": "calibration/000163.json",
+      "camera_front": "camera_front/000163.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000163.json",
+      "lidar_vlp16": "lidar_vlp16/000163.txt",
+      "radar_6455": "radar_6455/000163.txt"
+    },
+    "164": {
+      "calibration": "calibration/000164.json",
+      "camera_front": "camera_front/000164.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000164.json",
+      "lidar_vlp16": "lidar_vlp16/000164.txt",
+      "radar_6455": "radar_6455/000164.txt"
+    },
+    "165": {
+      "calibration": "calibration/000165.json",
+      "camera_front": "camera_front/000165.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000165.json",
+      "lidar_vlp16": "lidar_vlp16/000165.txt",
+      "radar_6455": "radar_6455/000165.txt"
+    },
+    "166": {
+      "calibration": "calibration/000166.json",
+      "camera_front": "camera_front/000166.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000166.json",
+      "lidar_vlp16": "lidar_vlp16/000166.txt",
+      "radar_6455": "radar_6455/000166.txt"
+    },
+    "167": {
+      "calibration": "calibration/000167.json",
+      "camera_front": "camera_front/000167.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000167.json",
+      "lidar_vlp16": "lidar_vlp16/000167.txt",
+      "radar_6455": "radar_6455/000167.txt"
+    },
+    "168": {
+      "calibration": "calibration/000168.json",
+      "camera_front": "camera_front/000168.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000168.json",
+      "lidar_vlp16": "lidar_vlp16/000168.txt",
+      "radar_6455": "radar_6455/000168.txt"
+    },
+    "169": {
+      "calibration": "calibration/000169.json",
+      "camera_front": "camera_front/000169.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000169.json",
+      "lidar_vlp16": "lidar_vlp16/000169.txt",
+      "radar_6455": "radar_6455/000169.txt"
+    },
+    "170": {
+      "calibration": "calibration/000170.json",
+      "camera_front": "camera_front/000170.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000170.json",
+      "lidar_vlp16": "lidar_vlp16/000170.txt",
+      "radar_6455": "radar_6455/000170.txt"
+    },
+    "171": {
+      "calibration": "calibration/000171.json",
+      "camera_front": "camera_front/000171.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000171.json",
+      "lidar_vlp16": "lidar_vlp16/000171.txt",
+      "radar_6455": "radar_6455/000171.txt"
+    },
+    "172": {
+      "calibration": "calibration/000172.json",
+      "camera_front": "camera_front/000172.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000172.json",
+      "lidar_vlp16": "lidar_vlp16/000172.txt",
+      "radar_6455": "radar_6455/000172.txt"
+    },
+    "173": {
+      "calibration": "calibration/000173.json",
+      "camera_front": "camera_front/000173.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000173.json",
+      "lidar_vlp16": "lidar_vlp16/000173.txt",
+      "radar_6455": "radar_6455/000173.txt"
+    },
+    "174": {
+      "calibration": "calibration/000174.json",
+      "camera_front": "camera_front/000174.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000174.json",
+      "lidar_vlp16": "lidar_vlp16/000174.txt",
+      "radar_6455": "radar_6455/000174.txt"
+    },
+    "175": {
+      "calibration": "calibration/000175.json",
+      "camera_front": "camera_front/000175.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000175.json",
+      "lidar_vlp16": "lidar_vlp16/000175.txt",
+      "radar_6455": "radar_6455/000175.txt"
+    },
+    "176": {
+      "calibration": "calibration/000176.json",
+      "camera_front": "camera_front/000176.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000176.json",
+      "lidar_vlp16": "lidar_vlp16/000176.txt",
+      "radar_6455": "radar_6455/000176.txt"
+    },
+    "177": {
+      "calibration": "calibration/000177.json",
+      "camera_front": "camera_front/000177.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000177.json",
+      "lidar_vlp16": "lidar_vlp16/000177.txt",
+      "radar_6455": "radar_6455/000177.txt"
+    },
+    "178": {
+      "calibration": "calibration/000178.json",
+      "camera_front": "camera_front/000178.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000178.json",
+      "lidar_vlp16": "lidar_vlp16/000178.txt",
+      "radar_6455": "radar_6455/000178.txt"
+    },
+    "179": {
+      "calibration": "calibration/000179.json",
+      "camera_front": "camera_front/000179.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000179.json",
+      "lidar_vlp16": "lidar_vlp16/000179.txt",
+      "radar_6455": "radar_6455/000179.txt"
+    },
+    "180": {
+      "calibration": "calibration/000180.json",
+      "camera_front": "camera_front/000180.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000180.json",
+      "lidar_vlp16": "lidar_vlp16/000180.txt",
+      "radar_6455": "radar_6455/000180.txt"
+    },
+    "181": {
+      "calibration": "calibration/000181.json",
+      "camera_front": "camera_front/000181.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000181.json",
+      "lidar_vlp16": "lidar_vlp16/000181.txt",
+      "radar_6455": "radar_6455/000181.txt"
+    },
+    "182": {
+      "calibration": "calibration/000182.json",
+      "camera_front": "camera_front/000182.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000182.json",
+      "lidar_vlp16": "lidar_vlp16/000182.txt",
+      "radar_6455": "radar_6455/000182.txt"
+    },
+    "183": {
+      "calibration": "calibration/000183.json",
+      "camera_front": "camera_front/000183.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000183.json",
+      "lidar_vlp16": "lidar_vlp16/000183.txt",
+      "radar_6455": "radar_6455/000183.txt"
+    },
+    "184": {
+      "calibration": "calibration/000184.json",
+      "camera_front": "camera_front/000184.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000184.json",
+      "lidar_vlp16": "lidar_vlp16/000184.txt",
+      "radar_6455": "radar_6455/000184.txt"
+    },
+    "185": {
+      "calibration": "calibration/000185.json",
+      "camera_front": "camera_front/000185.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000185.json",
+      "lidar_vlp16": "lidar_vlp16/000185.txt",
+      "radar_6455": "radar_6455/000185.txt"
+    },
+    "186": {
+      "calibration": "calibration/000186.json",
+      "camera_front": "camera_front/000186.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000186.json",
+      "lidar_vlp16": "lidar_vlp16/000186.txt",
+      "radar_6455": "radar_6455/000186.txt"
+    },
+    "187": {
+      "calibration": "calibration/000187.json",
+      "camera_front": "camera_front/000187.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000187.json",
+      "lidar_vlp16": "lidar_vlp16/000187.txt",
+      "radar_6455": "radar_6455/000187.txt"
+    },
+    "188": {
+      "calibration": "calibration/000188.json",
+      "camera_front": "camera_front/000188.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000188.json",
+      "lidar_vlp16": "lidar_vlp16/000188.txt",
+      "radar_6455": "radar_6455/000188.txt"
+    },
+    "189": {
+      "calibration": "calibration/000189.json",
+      "camera_front": "camera_front/000189.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000189.json",
+      "lidar_vlp16": "lidar_vlp16/000189.txt",
+      "radar_6455": "radar_6455/000189.txt"
+    },
+    "190": {
+      "calibration": "calibration/000190.json",
+      "camera_front": "camera_front/000190.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000190.json",
+      "lidar_vlp16": "lidar_vlp16/000190.txt",
+      "radar_6455": "radar_6455/000190.txt"
+    },
+    "191": {
+      "calibration": "calibration/000191.json",
+      "camera_front": "camera_front/000191.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000191.json",
+      "lidar_vlp16": "lidar_vlp16/000191.txt",
+      "radar_6455": "radar_6455/000191.txt"
+    },
+    "192": {
+      "calibration": "calibration/000192.json",
+      "camera_front": "camera_front/000192.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000192.json",
+      "lidar_vlp16": "lidar_vlp16/000192.txt",
+      "radar_6455": "radar_6455/000192.txt"
+    },
+    "193": {
+      "calibration": "calibration/000193.json",
+      "camera_front": "camera_front/000193.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000193.json",
+      "lidar_vlp16": "lidar_vlp16/000193.txt",
+      "radar_6455": "radar_6455/000193.txt"
+    },
+    "194": {
+      "calibration": "calibration/000194.json",
+      "camera_front": "camera_front/000194.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000194.json",
+      "lidar_vlp16": "lidar_vlp16/000194.txt",
+      "radar_6455": "radar_6455/000194.txt"
+    },
+    "195": {
+      "calibration": "calibration/000195.json",
+      "camera_front": "camera_front/000195.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000195.json",
+      "lidar_vlp16": "lidar_vlp16/000195.txt",
+      "radar_6455": "radar_6455/000195.txt"
+    },
+    "196": {
+      "calibration": "calibration/000196.json",
+      "camera_front": "camera_front/000196.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000196.json",
+      "lidar_vlp16": "lidar_vlp16/000196.txt",
+      "radar_6455": "radar_6455/000196.txt"
+    },
+    "197": {
+      "calibration": "calibration/000197.json",
+      "camera_front": "camera_front/000197.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000197.json",
+      "lidar_vlp16": "lidar_vlp16/000197.txt",
+      "radar_6455": "radar_6455/000197.txt"
+    },
+    "198": {
+      "calibration": "calibration/000198.json",
+      "camera_front": "camera_front/000198.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000198.json",
+      "lidar_vlp16": "lidar_vlp16/000198.txt",
+      "radar_6455": "radar_6455/000198.txt"
+    },
+    "199": {
+      "calibration": "calibration/000199.json",
+      "camera_front": "camera_front/000199.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000199.json",
+      "lidar_vlp16": "lidar_vlp16/000199.txt",
+      "radar_6455": "radar_6455/000199.txt"
+    },
+    "200": {
+      "calibration": "calibration/000200.json",
+      "camera_front": "camera_front/000200.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000200.json",
+      "lidar_vlp16": "lidar_vlp16/000200.txt",
+      "radar_6455": "radar_6455/000200.txt"
+    },
+    "201": {
+      "calibration": "calibration/000201.json",
+      "camera_front": "camera_front/000201.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000201.json",
+      "lidar_vlp16": "lidar_vlp16/000201.txt",
+      "radar_6455": "radar_6455/000201.txt"
+    },
+    "202": {
+      "calibration": "calibration/000202.json",
+      "camera_front": "camera_front/000202.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000202.json",
+      "lidar_vlp16": "lidar_vlp16/000202.txt",
+      "radar_6455": "radar_6455/000202.txt"
+    },
+    "203": {
+      "calibration": "calibration/000203.json",
+      "camera_front": "camera_front/000203.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000203.json",
+      "lidar_vlp16": "lidar_vlp16/000203.txt",
+      "radar_6455": "radar_6455/000203.txt"
+    },
+    "204": {
+      "calibration": "calibration/000204.json",
+      "camera_front": "camera_front/000204.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000204.json",
+      "lidar_vlp16": "lidar_vlp16/000204.txt",
+      "radar_6455": "radar_6455/000204.txt"
+    },
+    "205": {
+      "calibration": "calibration/000205.json",
+      "camera_front": "camera_front/000205.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000205.json",
+      "lidar_vlp16": "lidar_vlp16/000205.txt",
+      "radar_6455": "radar_6455/000205.txt"
+    },
+    "206": {
+      "calibration": "calibration/000206.json",
+      "camera_front": "camera_front/000206.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000206.json",
+      "lidar_vlp16": "lidar_vlp16/000206.txt",
+      "radar_6455": "radar_6455/000206.txt"
+    },
+    "207": {
+      "calibration": "calibration/000207.json",
+      "camera_front": "camera_front/000207.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000207.json",
+      "lidar_vlp16": "lidar_vlp16/000207.txt",
+      "radar_6455": "radar_6455/000207.txt"
+    },
+    "208": {
+      "calibration": "calibration/000208.json",
+      "camera_front": "camera_front/000208.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000208.json",
+      "lidar_vlp16": "lidar_vlp16/000208.txt",
+      "radar_6455": "radar_6455/000208.txt"
+    },
+    "209": {
+      "calibration": "calibration/000209.json",
+      "camera_front": "camera_front/000209.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000209.json",
+      "lidar_vlp16": "lidar_vlp16/000209.txt",
+      "radar_6455": "radar_6455/000209.txt"
+    },
+    "210": {
+      "calibration": "calibration/000210.json",
+      "camera_front": "camera_front/000210.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000210.json",
+      "lidar_vlp16": "lidar_vlp16/000210.txt",
+      "radar_6455": "radar_6455/000210.txt"
+    },
+    "211": {
+      "calibration": "calibration/000211.json",
+      "camera_front": "camera_front/000211.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000211.json",
+      "lidar_vlp16": "lidar_vlp16/000211.txt",
+      "radar_6455": "radar_6455/000211.txt"
+    },
+    "212": {
+      "calibration": "calibration/000212.json",
+      "camera_front": "camera_front/000212.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000212.json",
+      "lidar_vlp16": "lidar_vlp16/000212.txt",
+      "radar_6455": "radar_6455/000212.txt"
+    },
+    "213": {
+      "calibration": "calibration/000213.json",
+      "camera_front": "camera_front/000213.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000213.json",
+      "lidar_vlp16": "lidar_vlp16/000213.txt",
+      "radar_6455": "radar_6455/000213.txt"
+    },
+    "214": {
+      "calibration": "calibration/000214.json",
+      "camera_front": "camera_front/000214.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000214.json",
+      "lidar_vlp16": "lidar_vlp16/000214.txt",
+      "radar_6455": "radar_6455/000214.txt"
+    },
+    "215": {
+      "calibration": "calibration/000215.json",
+      "camera_front": "camera_front/000215.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000215.json",
+      "lidar_vlp16": "lidar_vlp16/000215.txt",
+      "radar_6455": "radar_6455/000215.txt"
+    },
+    "216": {
+      "calibration": "calibration/000216.json",
+      "camera_front": "camera_front/000216.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000216.json",
+      "lidar_vlp16": "lidar_vlp16/000216.txt",
+      "radar_6455": "radar_6455/000216.txt"
+    },
+    "217": {
+      "calibration": "calibration/000217.json",
+      "camera_front": "camera_front/000217.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000217.json",
+      "lidar_vlp16": "lidar_vlp16/000217.txt",
+      "radar_6455": "radar_6455/000217.txt"
+    },
+    "218": {
+      "calibration": "calibration/000218.json",
+      "camera_front": "camera_front/000218.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000218.json",
+      "lidar_vlp16": "lidar_vlp16/000218.txt",
+      "radar_6455": "radar_6455/000218.txt"
+    },
+    "219": {
+      "calibration": "calibration/000219.json",
+      "camera_front": "camera_front/000219.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000219.json",
+      "lidar_vlp16": "lidar_vlp16/000219.txt",
+      "radar_6455": "radar_6455/000219.txt"
+    },
+    "220": {
+      "calibration": "calibration/000220.json",
+      "camera_front": "camera_front/000220.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000220.json",
+      "lidar_vlp16": "lidar_vlp16/000220.txt",
+      "radar_6455": "radar_6455/000220.txt"
+    },
+    "221": {
+      "calibration": "calibration/000221.json",
+      "camera_front": "camera_front/000221.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000221.json",
+      "lidar_vlp16": "lidar_vlp16/000221.txt",
+      "radar_6455": "radar_6455/000221.txt"
+    },
+    "222": {
+      "calibration": "calibration/000222.json",
+      "camera_front": "camera_front/000222.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000222.json",
+      "lidar_vlp16": "lidar_vlp16/000222.txt",
+      "radar_6455": "radar_6455/000222.txt"
+    },
+    "223": {
+      "calibration": "calibration/000223.json",
+      "camera_front": "camera_front/000223.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000223.json",
+      "lidar_vlp16": "lidar_vlp16/000223.txt",
+      "radar_6455": "radar_6455/000223.txt"
+    },
+    "224": {
+      "calibration": "calibration/000224.json",
+      "camera_front": "camera_front/000224.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000224.json",
+      "lidar_vlp16": "lidar_vlp16/000224.txt",
+      "radar_6455": "radar_6455/000224.txt"
+    },
+    "225": {
+      "calibration": "calibration/000225.json",
+      "camera_front": "camera_front/000225.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000225.json",
+      "lidar_vlp16": "lidar_vlp16/000225.txt",
+      "radar_6455": "radar_6455/000225.txt"
+    },
+    "226": {
+      "calibration": "calibration/000226.json",
+      "camera_front": "camera_front/000226.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000226.json",
+      "lidar_vlp16": "lidar_vlp16/000226.txt",
+      "radar_6455": "radar_6455/000226.txt"
+    },
+    "227": {
+      "calibration": "calibration/000227.json",
+      "camera_front": "camera_front/000227.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000227.json",
+      "lidar_vlp16": "lidar_vlp16/000227.txt",
+      "radar_6455": "radar_6455/000227.txt"
+    },
+    "228": {
+      "calibration": "calibration/000228.json",
+      "camera_front": "camera_front/000228.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000228.json",
+      "lidar_vlp16": "lidar_vlp16/000228.txt",
+      "radar_6455": "radar_6455/000228.txt"
+    },
+    "229": {
+      "calibration": "calibration/000229.json",
+      "camera_front": "camera_front/000229.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000229.json",
+      "lidar_vlp16": "lidar_vlp16/000229.txt",
+      "radar_6455": "radar_6455/000229.txt"
+    },
+    "230": {
+      "calibration": "calibration/000230.json",
+      "camera_front": "camera_front/000230.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000230.json",
+      "lidar_vlp16": "lidar_vlp16/000230.txt",
+      "radar_6455": "radar_6455/000230.txt"
+    },
+    "231": {
+      "calibration": "calibration/000231.json",
+      "camera_front": "camera_front/000231.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000231.json",
+      "lidar_vlp16": "lidar_vlp16/000231.txt",
+      "radar_6455": "radar_6455/000231.txt"
+    },
+    "232": {
+      "calibration": "calibration/000232.json",
+      "camera_front": "camera_front/000232.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000232.json",
+      "lidar_vlp16": "lidar_vlp16/000232.txt",
+      "radar_6455": "radar_6455/000232.txt"
+    },
+    "233": {
+      "calibration": "calibration/000233.json",
+      "camera_front": "camera_front/000233.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000233.json",
+      "lidar_vlp16": "lidar_vlp16/000233.txt",
+      "radar_6455": "radar_6455/000233.txt"
+    },
+    "234": {
+      "calibration": "calibration/000234.json",
+      "camera_front": "camera_front/000234.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000234.json",
+      "lidar_vlp16": "lidar_vlp16/000234.txt",
+      "radar_6455": "radar_6455/000234.txt"
+    },
+    "235": {
+      "calibration": "calibration/000235.json",
+      "camera_front": "camera_front/000235.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000235.json",
+      "lidar_vlp16": "lidar_vlp16/000235.txt",
+      "radar_6455": "radar_6455/000235.txt"
+    },
+    "236": {
+      "calibration": "calibration/000236.json",
+      "camera_front": "camera_front/000236.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000236.json",
+      "lidar_vlp16": "lidar_vlp16/000236.txt",
+      "radar_6455": "radar_6455/000236.txt"
+    },
+    "237": {
+      "calibration": "calibration/000237.json",
+      "camera_front": "camera_front/000237.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000237.json",
+      "lidar_vlp16": "lidar_vlp16/000237.txt",
+      "radar_6455": "radar_6455/000237.txt"
+    },
+    "238": {
+      "calibration": "calibration/000238.json",
+      "camera_front": "camera_front/000238.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000238.json",
+      "lidar_vlp16": "lidar_vlp16/000238.txt",
+      "radar_6455": "radar_6455/000238.txt"
+    },
+    "239": {
+      "calibration": "calibration/000239.json",
+      "camera_front": "camera_front/000239.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000239.json",
+      "lidar_vlp16": "lidar_vlp16/000239.txt",
+      "radar_6455": "radar_6455/000239.txt"
+    },
+    "240": {
+      "calibration": "calibration/000240.json",
+      "camera_front": "camera_front/000240.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000240.json",
+      "lidar_vlp16": "lidar_vlp16/000240.txt",
+      "radar_6455": "radar_6455/000240.txt"
+    },
+    "241": {
+      "calibration": "calibration/000241.json",
+      "camera_front": "camera_front/000241.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000241.json",
+      "lidar_vlp16": "lidar_vlp16/000241.txt",
+      "radar_6455": "radar_6455/000241.txt"
+    },
+    "242": {
+      "calibration": "calibration/000242.json",
+      "camera_front": "camera_front/000242.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000242.json",
+      "lidar_vlp16": "lidar_vlp16/000242.txt",
+      "radar_6455": "radar_6455/000242.txt"
+    },
+    "243": {
+      "calibration": "calibration/000243.json",
+      "camera_front": "camera_front/000243.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000243.json",
+      "lidar_vlp16": "lidar_vlp16/000243.txt",
+      "radar_6455": "radar_6455/000243.txt"
+    },
+    "244": {
+      "calibration": "calibration/000244.json",
+      "camera_front": "camera_front/000244.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000244.json",
+      "lidar_vlp16": "lidar_vlp16/000244.txt",
+      "radar_6455": "radar_6455/000244.txt"
+    },
+    "245": {
+      "calibration": "calibration/000245.json",
+      "camera_front": "camera_front/000245.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000245.json",
+      "lidar_vlp16": "lidar_vlp16/000245.txt",
+      "radar_6455": "radar_6455/000245.txt"
+    },
+    "246": {
+      "calibration": "calibration/000246.json",
+      "camera_front": "camera_front/000246.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000246.json",
+      "lidar_vlp16": "lidar_vlp16/000246.txt",
+      "radar_6455": "radar_6455/000246.txt"
+    },
+    "247": {
+      "calibration": "calibration/000247.json",
+      "camera_front": "camera_front/000247.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000247.json",
+      "lidar_vlp16": "lidar_vlp16/000247.txt",
+      "radar_6455": "radar_6455/000247.txt"
+    },
+    "248": {
+      "calibration": "calibration/000248.json",
+      "camera_front": "camera_front/000248.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000248.json",
+      "lidar_vlp16": "lidar_vlp16/000248.txt",
+      "radar_6455": "radar_6455/000248.txt"
+    },
+    "249": {
+      "calibration": "calibration/000249.json",
+      "camera_front": "camera_front/000249.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000249.json",
+      "lidar_vlp16": "lidar_vlp16/000249.txt",
+      "radar_6455": "radar_6455/000249.txt"
+    },
+    "250": {
+      "calibration": "calibration/000250.json",
+      "camera_front": "camera_front/000250.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000250.json",
+      "lidar_vlp16": "lidar_vlp16/000250.txt",
+      "radar_6455": "radar_6455/000250.txt"
+    },
+    "251": {
+      "calibration": "calibration/000251.json",
+      "camera_front": "camera_front/000251.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000251.json",
+      "lidar_vlp16": "lidar_vlp16/000251.txt",
+      "radar_6455": "radar_6455/000251.txt"
+    },
+    "252": {
+      "calibration": "calibration/000252.json",
+      "camera_front": "camera_front/000252.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000252.json",
+      "lidar_vlp16": "lidar_vlp16/000252.txt",
+      "radar_6455": "radar_6455/000252.txt"
+    },
+    "253": {
+      "calibration": "calibration/000253.json",
+      "camera_front": "camera_front/000253.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000253.json",
+      "lidar_vlp16": "lidar_vlp16/000253.txt",
+      "radar_6455": "radar_6455/000253.txt"
+    },
+    "254": {
+      "calibration": "calibration/000254.json",
+      "camera_front": "camera_front/000254.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000254.json",
+      "lidar_vlp16": "lidar_vlp16/000254.txt",
+      "radar_6455": "radar_6455/000254.txt"
+    },
+    "255": {
+      "calibration": "calibration/000255.json",
+      "camera_front": "camera_front/000255.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000255.json",
+      "lidar_vlp16": "lidar_vlp16/000255.txt",
+      "radar_6455": "radar_6455/000255.txt"
+    },
+    "256": {
+      "calibration": "calibration/000256.json",
+      "camera_front": "camera_front/000256.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000256.json",
+      "lidar_vlp16": "lidar_vlp16/000256.txt",
+      "radar_6455": "radar_6455/000256.txt"
+    },
+    "257": {
+      "calibration": "calibration/000257.json",
+      "camera_front": "camera_front/000257.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000257.json",
+      "lidar_vlp16": "lidar_vlp16/000257.txt",
+      "radar_6455": "radar_6455/000257.txt"
+    },
+    "258": {
+      "calibration": "calibration/000258.json",
+      "camera_front": "camera_front/000258.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000258.json",
+      "lidar_vlp16": "lidar_vlp16/000258.txt",
+      "radar_6455": "radar_6455/000258.txt"
+    },
+    "259": {
+      "calibration": "calibration/000259.json",
+      "camera_front": "camera_front/000259.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000259.json",
+      "lidar_vlp16": "lidar_vlp16/000259.txt",
+      "radar_6455": "radar_6455/000259.txt"
+    },
+    "260": {
+      "calibration": "calibration/000260.json",
+      "camera_front": "camera_front/000260.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000260.json",
+      "lidar_vlp16": "lidar_vlp16/000260.txt",
+      "radar_6455": "radar_6455/000260.txt"
+    },
+    "261": {
+      "calibration": "calibration/000261.json",
+      "camera_front": "camera_front/000261.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000261.json",
+      "lidar_vlp16": "lidar_vlp16/000261.txt",
+      "radar_6455": "radar_6455/000261.txt"
+    },
+    "262": {
+      "calibration": "calibration/000262.json",
+      "camera_front": "camera_front/000262.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000262.json",
+      "lidar_vlp16": "lidar_vlp16/000262.txt",
+      "radar_6455": "radar_6455/000262.txt"
+    },
+    "263": {
+      "calibration": "calibration/000263.json",
+      "camera_front": "camera_front/000263.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000263.json",
+      "lidar_vlp16": "lidar_vlp16/000263.txt",
+      "radar_6455": "radar_6455/000263.txt"
+    },
+    "264": {
+      "calibration": "calibration/000264.json",
+      "camera_front": "camera_front/000264.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000264.json",
+      "lidar_vlp16": "lidar_vlp16/000264.txt",
+      "radar_6455": "radar_6455/000264.txt"
+    },
+    "265": {
+      "calibration": "calibration/000265.json",
+      "camera_front": "camera_front/000265.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000265.json",
+      "lidar_vlp16": "lidar_vlp16/000265.txt",
+      "radar_6455": "radar_6455/000265.txt"
+    },
+    "266": {
+      "calibration": "calibration/000266.json",
+      "camera_front": "camera_front/000266.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000266.json",
+      "lidar_vlp16": "lidar_vlp16/000266.txt",
+      "radar_6455": "radar_6455/000266.txt"
+    },
+    "267": {
+      "calibration": "calibration/000267.json",
+      "camera_front": "camera_front/000267.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000267.json",
+      "lidar_vlp16": "lidar_vlp16/000267.txt",
+      "radar_6455": "radar_6455/000267.txt"
+    },
+    "268": {
+      "calibration": "calibration/000268.json",
+      "camera_front": "camera_front/000268.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000268.json",
+      "lidar_vlp16": "lidar_vlp16/000268.txt",
+      "radar_6455": "radar_6455/000268.txt"
+    },
+    "269": {
+      "calibration": "calibration/000269.json",
+      "camera_front": "camera_front/000269.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000269.json",
+      "lidar_vlp16": "lidar_vlp16/000269.txt",
+      "radar_6455": "radar_6455/000269.txt"
+    },
+    "270": {
+      "calibration": "calibration/000270.json",
+      "camera_front": "camera_front/000270.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000270.json",
+      "lidar_vlp16": "lidar_vlp16/000270.txt",
+      "radar_6455": "radar_6455/000270.txt"
+    },
+    "271": {
+      "calibration": "calibration/000271.json",
+      "camera_front": "camera_front/000271.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000271.json",
+      "lidar_vlp16": "lidar_vlp16/000271.txt",
+      "radar_6455": "radar_6455/000271.txt"
+    },
+    "272": {
+      "calibration": "calibration/000272.json",
+      "camera_front": "camera_front/000272.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000272.json",
+      "lidar_vlp16": "lidar_vlp16/000272.txt",
+      "radar_6455": "radar_6455/000272.txt"
+    },
+    "273": {
+      "calibration": "calibration/000273.json",
+      "camera_front": "camera_front/000273.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000273.json",
+      "lidar_vlp16": "lidar_vlp16/000273.txt",
+      "radar_6455": "radar_6455/000273.txt"
+    },
+    "274": {
+      "calibration": "calibration/000274.json",
+      "camera_front": "camera_front/000274.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000274.json",
+      "lidar_vlp16": "lidar_vlp16/000274.txt",
+      "radar_6455": "radar_6455/000274.txt"
+    },
+    "275": {
+      "calibration": "calibration/000275.json",
+      "camera_front": "camera_front/000275.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000275.json",
+      "lidar_vlp16": "lidar_vlp16/000275.txt",
+      "radar_6455": "radar_6455/000275.txt"
+    },
+    "276": {
+      "calibration": "calibration/000276.json",
+      "camera_front": "camera_front/000276.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000276.json",
+      "lidar_vlp16": "lidar_vlp16/000276.txt",
+      "radar_6455": "radar_6455/000276.txt"
+    },
+    "277": {
+      "calibration": "calibration/000277.json",
+      "camera_front": "camera_front/000277.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000277.json",
+      "lidar_vlp16": "lidar_vlp16/000277.txt",
+      "radar_6455": "radar_6455/000277.txt"
+    },
+    "278": {
+      "calibration": "calibration/000278.json",
+      "camera_front": "camera_front/000278.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000278.json",
+      "lidar_vlp16": "lidar_vlp16/000278.txt",
+      "radar_6455": "radar_6455/000278.txt"
+    },
+    "279": {
+      "calibration": "calibration/000279.json",
+      "camera_front": "camera_front/000279.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000279.json",
+      "lidar_vlp16": "lidar_vlp16/000279.txt",
+      "radar_6455": "radar_6455/000279.txt"
+    },
+    "280": {
+      "calibration": "calibration/000280.json",
+      "camera_front": "camera_front/000280.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000280.json",
+      "lidar_vlp16": "lidar_vlp16/000280.txt",
+      "radar_6455": "radar_6455/000280.txt"
+    },
+    "281": {
+      "calibration": "calibration/000281.json",
+      "camera_front": "camera_front/000281.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000281.json",
+      "lidar_vlp16": "lidar_vlp16/000281.txt",
+      "radar_6455": "radar_6455/000281.txt"
+    },
+    "282": {
+      "calibration": "calibration/000282.json",
+      "camera_front": "camera_front/000282.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000282.json",
+      "lidar_vlp16": "lidar_vlp16/000282.txt",
+      "radar_6455": "radar_6455/000282.txt"
+    },
+    "283": {
+      "calibration": "calibration/000283.json",
+      "camera_front": "camera_front/000283.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000283.json",
+      "lidar_vlp16": "lidar_vlp16/000283.txt",
+      "radar_6455": "radar_6455/000283.txt"
+    },
+    "284": {
+      "calibration": "calibration/000284.json",
+      "camera_front": "camera_front/000284.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000284.json",
+      "lidar_vlp16": "lidar_vlp16/000284.txt",
+      "radar_6455": "radar_6455/000284.txt"
+    },
+    "285": {
+      "calibration": "calibration/000285.json",
+      "camera_front": "camera_front/000285.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000285.json",
+      "lidar_vlp16": "lidar_vlp16/000285.txt",
+      "radar_6455": "radar_6455/000285.txt"
+    },
+    "286": {
+      "calibration": "calibration/000286.json",
+      "camera_front": "camera_front/000286.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000286.json",
+      "lidar_vlp16": "lidar_vlp16/000286.txt",
+      "radar_6455": "radar_6455/000286.txt"
+    },
+    "287": {
+      "calibration": "calibration/000287.json",
+      "camera_front": "camera_front/000287.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000287.json",
+      "lidar_vlp16": "lidar_vlp16/000287.txt",
+      "radar_6455": "radar_6455/000287.txt"
+    },
+    "288": {
+      "calibration": "calibration/000288.json",
+      "camera_front": "camera_front/000288.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000288.json",
+      "lidar_vlp16": "lidar_vlp16/000288.txt",
+      "radar_6455": "radar_6455/000288.txt"
+    },
+    "289": {
+      "calibration": "calibration/000289.json",
+      "camera_front": "camera_front/000289.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000289.json",
+      "lidar_vlp16": "lidar_vlp16/000289.txt",
+      "radar_6455": "radar_6455/000289.txt"
+    },
+    "290": {
+      "calibration": "calibration/000290.json",
+      "camera_front": "camera_front/000290.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000290.json",
+      "lidar_vlp16": "lidar_vlp16/000290.txt",
+      "radar_6455": "radar_6455/000290.txt"
+    },
+    "291": {
+      "calibration": "calibration/000291.json",
+      "camera_front": "camera_front/000291.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000291.json",
+      "lidar_vlp16": "lidar_vlp16/000291.txt",
+      "radar_6455": "radar_6455/000291.txt"
+    },
+    "292": {
+      "calibration": "calibration/000292.json",
+      "camera_front": "camera_front/000292.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000292.json",
+      "lidar_vlp16": "lidar_vlp16/000292.txt",
+      "radar_6455": "radar_6455/000292.txt"
+    },
+    "293": {
+      "calibration": "calibration/000293.json",
+      "camera_front": "camera_front/000293.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000293.json",
+      "lidar_vlp16": "lidar_vlp16/000293.txt",
+      "radar_6455": "radar_6455/000293.txt"
+    },
+    "294": {
+      "calibration": "calibration/000294.json",
+      "camera_front": "camera_front/000294.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000294.json",
+      "lidar_vlp16": "lidar_vlp16/000294.txt",
+      "radar_6455": "radar_6455/000294.txt"
+    },
+    "295": {
+      "calibration": "calibration/000295.json",
+      "camera_front": "camera_front/000295.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000295.json",
+      "lidar_vlp16": "lidar_vlp16/000295.txt",
+      "radar_6455": "radar_6455/000295.txt"
+    },
+    "296": {
+      "calibration": "calibration/000296.json",
+      "camera_front": "camera_front/000296.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000296.json",
+      "lidar_vlp16": "lidar_vlp16/000296.txt",
+      "radar_6455": "radar_6455/000296.txt"
+    },
+    "297": {
+      "calibration": "calibration/000297.json",
+      "camera_front": "camera_front/000297.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000297.json",
+      "lidar_vlp16": "lidar_vlp16/000297.txt",
+      "radar_6455": "radar_6455/000297.txt"
+    },
+    "298": {
+      "calibration": "calibration/000298.json",
+      "camera_front": "camera_front/000298.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000298.json",
+      "lidar_vlp16": "lidar_vlp16/000298.txt",
+      "radar_6455": "radar_6455/000298.txt"
+    },
+    "299": {
+      "calibration": "calibration/000299.json",
+      "camera_front": "camera_front/000299.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000299.json",
+      "lidar_vlp16": "lidar_vlp16/000299.txt",
+      "radar_6455": "radar_6455/000299.txt"
+    },
+    "300": {
+      "calibration": "calibration/000300.json",
+      "camera_front": "camera_front/000300.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000300.json",
+      "lidar_vlp16": "lidar_vlp16/000300.txt",
+      "radar_6455": "radar_6455/000300.txt"
+    },
+    "301": {
+      "calibration": "calibration/000301.json",
+      "camera_front": "camera_front/000301.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000301.json",
+      "lidar_vlp16": "lidar_vlp16/000301.txt",
+      "radar_6455": "radar_6455/000301.txt"
+    },
+    "302": {
+      "calibration": "calibration/000302.json",
+      "camera_front": "camera_front/000302.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000302.json",
+      "lidar_vlp16": "lidar_vlp16/000302.txt",
+      "radar_6455": "radar_6455/000302.txt"
+    },
+    "303": {
+      "calibration": "calibration/000303.json",
+      "camera_front": "camera_front/000303.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000303.json",
+      "lidar_vlp16": "lidar_vlp16/000303.txt",
+      "radar_6455": "radar_6455/000303.txt"
+    },
+    "304": {
+      "calibration": "calibration/000304.json",
+      "camera_front": "camera_front/000304.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000304.json",
+      "lidar_vlp16": "lidar_vlp16/000304.txt",
+      "radar_6455": "radar_6455/000304.txt"
+    },
+    "305": {
+      "calibration": "calibration/000305.json",
+      "camera_front": "camera_front/000305.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000305.json",
+      "lidar_vlp16": "lidar_vlp16/000305.txt",
+      "radar_6455": "radar_6455/000305.txt"
+    },
+    "306": {
+      "calibration": "calibration/000306.json",
+      "camera_front": "camera_front/000306.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000306.json",
+      "lidar_vlp16": "lidar_vlp16/000306.txt",
+      "radar_6455": "radar_6455/000306.txt"
+    },
+    "307": {
+      "calibration": "calibration/000307.json",
+      "camera_front": "camera_front/000307.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000307.json",
+      "lidar_vlp16": "lidar_vlp16/000307.txt",
+      "radar_6455": "radar_6455/000307.txt"
+    },
+    "308": {
+      "calibration": "calibration/000308.json",
+      "camera_front": "camera_front/000308.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000308.json",
+      "lidar_vlp16": "lidar_vlp16/000308.txt",
+      "radar_6455": "radar_6455/000308.txt"
+    },
+    "309": {
+      "calibration": "calibration/000309.json",
+      "camera_front": "camera_front/000309.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000309.json",
+      "lidar_vlp16": "lidar_vlp16/000309.txt",
+      "radar_6455": "radar_6455/000309.txt"
+    },
+    "310": {
+      "calibration": "calibration/000310.json",
+      "camera_front": "camera_front/000310.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000310.json",
+      "lidar_vlp16": "lidar_vlp16/000310.txt",
+      "radar_6455": "radar_6455/000310.txt"
+    },
+    "311": {
+      "calibration": "calibration/000311.json",
+      "camera_front": "camera_front/000311.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000311.json",
+      "lidar_vlp16": "lidar_vlp16/000311.txt",
+      "radar_6455": "radar_6455/000311.txt"
+    },
+    "312": {
+      "calibration": "calibration/000312.json",
+      "camera_front": "camera_front/000312.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000312.json",
+      "lidar_vlp16": "lidar_vlp16/000312.txt",
+      "radar_6455": "radar_6455/000312.txt"
+    },
+    "313": {
+      "calibration": "calibration/000313.json",
+      "camera_front": "camera_front/000313.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000313.json",
+      "lidar_vlp16": "lidar_vlp16/000313.txt",
+      "radar_6455": "radar_6455/000313.txt"
+    },
+    "314": {
+      "calibration": "calibration/000314.json",
+      "camera_front": "camera_front/000314.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000314.json",
+      "lidar_vlp16": "lidar_vlp16/000314.txt",
+      "radar_6455": "radar_6455/000314.txt"
+    },
+    "315": {
+      "calibration": "calibration/000315.json",
+      "camera_front": "camera_front/000315.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000315.json",
+      "lidar_vlp16": "lidar_vlp16/000315.txt",
+      "radar_6455": "radar_6455/000315.txt"
+    },
+    "316": {
+      "calibration": "calibration/000316.json",
+      "camera_front": "camera_front/000316.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000316.json",
+      "lidar_vlp16": "lidar_vlp16/000316.txt",
+      "radar_6455": "radar_6455/000316.txt"
+    },
+    "317": {
+      "calibration": "calibration/000317.json",
+      "camera_front": "camera_front/000317.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000317.json",
+      "lidar_vlp16": "lidar_vlp16/000317.txt",
+      "radar_6455": "radar_6455/000317.txt"
+    },
+    "318": {
+      "calibration": "calibration/000318.json",
+      "camera_front": "camera_front/000318.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000318.json",
+      "lidar_vlp16": "lidar_vlp16/000318.txt",
+      "radar_6455": "radar_6455/000318.txt"
+    },
+    "319": {
+      "calibration": "calibration/000319.json",
+      "camera_front": "camera_front/000319.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000319.json",
+      "lidar_vlp16": "lidar_vlp16/000319.txt",
+      "radar_6455": "radar_6455/000319.txt"
+    },
+    "320": {
+      "calibration": "calibration/000320.json",
+      "camera_front": "camera_front/000320.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000320.json",
+      "lidar_vlp16": "lidar_vlp16/000320.txt",
+      "radar_6455": "radar_6455/000320.txt"
+    },
+    "321": {
+      "calibration": "calibration/000321.json",
+      "camera_front": "camera_front/000321.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000321.json",
+      "lidar_vlp16": "lidar_vlp16/000321.txt",
+      "radar_6455": "radar_6455/000321.txt"
+    },
+    "322": {
+      "calibration": "calibration/000322.json",
+      "camera_front": "camera_front/000322.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000322.json",
+      "lidar_vlp16": "lidar_vlp16/000322.txt",
+      "radar_6455": "radar_6455/000322.txt"
+    },
+    "323": {
+      "calibration": "calibration/000323.json",
+      "camera_front": "camera_front/000323.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000323.json",
+      "lidar_vlp16": "lidar_vlp16/000323.txt",
+      "radar_6455": "radar_6455/000323.txt"
+    },
+    "324": {
+      "calibration": "calibration/000324.json",
+      "camera_front": "camera_front/000324.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000324.json",
+      "lidar_vlp16": "lidar_vlp16/000324.txt",
+      "radar_6455": "radar_6455/000324.txt"
+    },
+    "325": {
+      "calibration": "calibration/000325.json",
+      "camera_front": "camera_front/000325.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000325.json",
+      "lidar_vlp16": "lidar_vlp16/000325.txt",
+      "radar_6455": "radar_6455/000325.txt"
+    },
+    "326": {
+      "calibration": "calibration/000326.json",
+      "camera_front": "camera_front/000326.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000326.json",
+      "lidar_vlp16": "lidar_vlp16/000326.txt",
+      "radar_6455": "radar_6455/000326.txt"
+    },
+    "327": {
+      "calibration": "calibration/000327.json",
+      "camera_front": "camera_front/000327.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000327.json",
+      "lidar_vlp16": "lidar_vlp16/000327.txt",
+      "radar_6455": "radar_6455/000327.txt"
+    },
+    "328": {
+      "calibration": "calibration/000328.json",
+      "camera_front": "camera_front/000328.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000328.json",
+      "lidar_vlp16": "lidar_vlp16/000328.txt",
+      "radar_6455": "radar_6455/000328.txt"
+    },
+    "329": {
+      "calibration": "calibration/000329.json",
+      "camera_front": "camera_front/000329.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000329.json",
+      "lidar_vlp16": "lidar_vlp16/000329.txt",
+      "radar_6455": "radar_6455/000329.txt"
+    },
+    "330": {
+      "calibration": "calibration/000330.json",
+      "camera_front": "camera_front/000330.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000330.json",
+      "lidar_vlp16": "lidar_vlp16/000330.txt",
+      "radar_6455": "radar_6455/000330.txt"
+    },
+    "331": {
+      "calibration": "calibration/000331.json",
+      "camera_front": "camera_front/000331.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000331.json",
+      "lidar_vlp16": "lidar_vlp16/000331.txt",
+      "radar_6455": "radar_6455/000331.txt"
+    },
+    "332": {
+      "calibration": "calibration/000332.json",
+      "camera_front": "camera_front/000332.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000332.json",
+      "lidar_vlp16": "lidar_vlp16/000332.txt",
+      "radar_6455": "radar_6455/000332.txt"
+    },
+    "333": {
+      "calibration": "calibration/000333.json",
+      "camera_front": "camera_front/000333.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000333.json",
+      "lidar_vlp16": "lidar_vlp16/000333.txt",
+      "radar_6455": "radar_6455/000333.txt"
+    },
+    "334": {
+      "calibration": "calibration/000334.json",
+      "camera_front": "camera_front/000334.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000334.json",
+      "lidar_vlp16": "lidar_vlp16/000334.txt",
+      "radar_6455": "radar_6455/000334.txt"
+    },
+    "335": {
+      "calibration": "calibration/000335.json",
+      "camera_front": "camera_front/000335.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000335.json",
+      "lidar_vlp16": "lidar_vlp16/000335.txt",
+      "radar_6455": "radar_6455/000335.txt"
+    },
+    "336": {
+      "calibration": "calibration/000336.json",
+      "camera_front": "camera_front/000336.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000336.json",
+      "lidar_vlp16": "lidar_vlp16/000336.txt",
+      "radar_6455": "radar_6455/000336.txt"
+    },
+    "337": {
+      "calibration": "calibration/000337.json",
+      "camera_front": "camera_front/000337.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000337.json",
+      "lidar_vlp16": "lidar_vlp16/000337.txt",
+      "radar_6455": "radar_6455/000337.txt"
+    },
+    "338": {
+      "calibration": "calibration/000338.json",
+      "camera_front": "camera_front/000338.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000338.json",
+      "lidar_vlp16": "lidar_vlp16/000338.txt",
+      "radar_6455": "radar_6455/000338.txt"
+    },
+    "339": {
+      "calibration": "calibration/000339.json",
+      "camera_front": "camera_front/000339.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000339.json",
+      "lidar_vlp16": "lidar_vlp16/000339.txt",
+      "radar_6455": "radar_6455/000339.txt"
+    },
+    "340": {
+      "calibration": "calibration/000340.json",
+      "camera_front": "camera_front/000340.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000340.json",
+      "lidar_vlp16": "lidar_vlp16/000340.txt",
+      "radar_6455": "radar_6455/000340.txt"
+    },
+    "341": {
+      "calibration": "calibration/000341.json",
+      "camera_front": "camera_front/000341.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000341.json",
+      "lidar_vlp16": "lidar_vlp16/000341.txt",
+      "radar_6455": "radar_6455/000341.txt"
+    },
+    "342": {
+      "calibration": "calibration/000342.json",
+      "camera_front": "camera_front/000342.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000342.json",
+      "lidar_vlp16": "lidar_vlp16/000342.txt",
+      "radar_6455": "radar_6455/000342.txt"
+    },
+    "343": {
+      "calibration": "calibration/000343.json",
+      "camera_front": "camera_front/000343.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000343.json",
+      "lidar_vlp16": "lidar_vlp16/000343.txt",
+      "radar_6455": "radar_6455/000343.txt"
+    },
+    "344": {
+      "calibration": "calibration/000344.json",
+      "camera_front": "camera_front/000344.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000344.json",
+      "lidar_vlp16": "lidar_vlp16/000344.txt",
+      "radar_6455": "radar_6455/000344.txt"
+    },
+    "345": {
+      "calibration": "calibration/000345.json",
+      "camera_front": "camera_front/000345.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000345.json",
+      "lidar_vlp16": "lidar_vlp16/000345.txt",
+      "radar_6455": "radar_6455/000345.txt"
+    },
+    "346": {
+      "calibration": "calibration/000346.json",
+      "camera_front": "camera_front/000346.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000346.json",
+      "lidar_vlp16": "lidar_vlp16/000346.txt",
+      "radar_6455": "radar_6455/000346.txt"
+    },
+    "347": {
+      "calibration": "calibration/000347.json",
+      "camera_front": "camera_front/000347.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000347.json",
+      "lidar_vlp16": "lidar_vlp16/000347.txt",
+      "radar_6455": "radar_6455/000347.txt"
+    },
+    "348": {
+      "calibration": "calibration/000348.json",
+      "camera_front": "camera_front/000348.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000348.json",
+      "lidar_vlp16": "lidar_vlp16/000348.txt",
+      "radar_6455": "radar_6455/000348.txt"
+    },
+    "349": {
+      "calibration": "calibration/000349.json",
+      "camera_front": "camera_front/000349.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000349.json",
+      "lidar_vlp16": "lidar_vlp16/000349.txt",
+      "radar_6455": "radar_6455/000349.txt"
+    },
+    "350": {
+      "calibration": "calibration/000350.json",
+      "camera_front": "camera_front/000350.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000350.json",
+      "lidar_vlp16": "lidar_vlp16/000350.txt",
+      "radar_6455": "radar_6455/000350.txt"
+    },
+    "351": {
+      "calibration": "calibration/000351.json",
+      "camera_front": "camera_front/000351.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000351.json",
+      "lidar_vlp16": "lidar_vlp16/000351.txt",
+      "radar_6455": "radar_6455/000351.txt"
+    },
+    "352": {
+      "calibration": "calibration/000352.json",
+      "camera_front": "camera_front/000352.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000352.json",
+      "lidar_vlp16": "lidar_vlp16/000352.txt",
+      "radar_6455": "radar_6455/000352.txt"
+    },
+    "353": {
+      "calibration": "calibration/000353.json",
+      "camera_front": "camera_front/000353.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000353.json",
+      "lidar_vlp16": "lidar_vlp16/000353.txt",
+      "radar_6455": "radar_6455/000353.txt"
+    },
+    "354": {
+      "calibration": "calibration/000354.json",
+      "camera_front": "camera_front/000354.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000354.json",
+      "lidar_vlp16": "lidar_vlp16/000354.txt",
+      "radar_6455": "radar_6455/000354.txt"
+    },
+    "355": {
+      "calibration": "calibration/000355.json",
+      "camera_front": "camera_front/000355.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000355.json",
+      "lidar_vlp16": "lidar_vlp16/000355.txt",
+      "radar_6455": "radar_6455/000355.txt"
+    },
+    "356": {
+      "calibration": "calibration/000356.json",
+      "camera_front": "camera_front/000356.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000356.json",
+      "lidar_vlp16": "lidar_vlp16/000356.txt",
+      "radar_6455": "radar_6455/000356.txt"
+    },
+    "357": {
+      "calibration": "calibration/000357.json",
+      "camera_front": "camera_front/000357.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000357.json",
+      "lidar_vlp16": "lidar_vlp16/000357.txt",
+      "radar_6455": "radar_6455/000357.txt"
+    },
+    "358": {
+      "calibration": "calibration/000358.json",
+      "camera_front": "camera_front/000358.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000358.json",
+      "lidar_vlp16": "lidar_vlp16/000358.txt",
+      "radar_6455": "radar_6455/000358.txt"
+    },
+    "359": {
+      "calibration": "calibration/000359.json",
+      "camera_front": "camera_front/000359.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000359.json",
+      "lidar_vlp16": "lidar_vlp16/000359.txt",
+      "radar_6455": "radar_6455/000359.txt"
+    },
+    "360": {
+      "calibration": "calibration/000360.json",
+      "camera_front": "camera_front/000360.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000360.json",
+      "lidar_vlp16": "lidar_vlp16/000360.txt",
+      "radar_6455": "radar_6455/000360.txt"
+    },
+    "361": {
+      "calibration": "calibration/000361.json",
+      "camera_front": "camera_front/000361.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000361.json",
+      "lidar_vlp16": "lidar_vlp16/000361.txt",
+      "radar_6455": "radar_6455/000361.txt"
+    },
+    "362": {
+      "calibration": "calibration/000362.json",
+      "camera_front": "camera_front/000362.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000362.json",
+      "lidar_vlp16": "lidar_vlp16/000362.txt",
+      "radar_6455": "radar_6455/000362.txt"
+    },
+    "363": {
+      "calibration": "calibration/000363.json",
+      "camera_front": "camera_front/000363.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000363.json",
+      "lidar_vlp16": "lidar_vlp16/000363.txt",
+      "radar_6455": "radar_6455/000363.txt"
+    },
+    "364": {
+      "calibration": "calibration/000364.json",
+      "camera_front": "camera_front/000364.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000364.json",
+      "lidar_vlp16": "lidar_vlp16/000364.txt",
+      "radar_6455": "radar_6455/000364.txt"
+    },
+    "365": {
+      "calibration": "calibration/000365.json",
+      "camera_front": "camera_front/000365.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000365.json",
+      "lidar_vlp16": "lidar_vlp16/000365.txt",
+      "radar_6455": "radar_6455/000365.txt"
+    },
+    "366": {
+      "calibration": "calibration/000366.json",
+      "camera_front": "camera_front/000366.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000366.json",
+      "lidar_vlp16": "lidar_vlp16/000366.txt",
+      "radar_6455": "radar_6455/000366.txt"
+    },
+    "367": {
+      "calibration": "calibration/000367.json",
+      "camera_front": "camera_front/000367.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000367.json",
+      "lidar_vlp16": "lidar_vlp16/000367.txt",
+      "radar_6455": "radar_6455/000367.txt"
+    },
+    "368": {
+      "calibration": "calibration/000368.json",
+      "camera_front": "camera_front/000368.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000368.json",
+      "lidar_vlp16": "lidar_vlp16/000368.txt",
+      "radar_6455": "radar_6455/000368.txt"
+    },
+    "369": {
+      "calibration": "calibration/000369.json",
+      "camera_front": "camera_front/000369.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000369.json",
+      "lidar_vlp16": "lidar_vlp16/000369.txt",
+      "radar_6455": "radar_6455/000369.txt"
+    },
+    "370": {
+      "calibration": "calibration/000370.json",
+      "camera_front": "camera_front/000370.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000370.json",
+      "lidar_vlp16": "lidar_vlp16/000370.txt",
+      "radar_6455": "radar_6455/000370.txt"
+    },
+    "371": {
+      "calibration": "calibration/000371.json",
+      "camera_front": "camera_front/000371.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000371.json",
+      "lidar_vlp16": "lidar_vlp16/000371.txt",
+      "radar_6455": "radar_6455/000371.txt"
+    },
+    "372": {
+      "calibration": "calibration/000372.json",
+      "camera_front": "camera_front/000372.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000372.json",
+      "lidar_vlp16": "lidar_vlp16/000372.txt",
+      "radar_6455": "radar_6455/000372.txt"
+    },
+    "373": {
+      "calibration": "calibration/000373.json",
+      "camera_front": "camera_front/000373.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000373.json",
+      "lidar_vlp16": "lidar_vlp16/000373.txt",
+      "radar_6455": "radar_6455/000373.txt"
+    },
+    "374": {
+      "calibration": "calibration/000374.json",
+      "camera_front": "camera_front/000374.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000374.json",
+      "lidar_vlp16": "lidar_vlp16/000374.txt",
+      "radar_6455": "radar_6455/000374.txt"
+    },
+    "375": {
+      "calibration": "calibration/000375.json",
+      "camera_front": "camera_front/000375.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000375.json",
+      "lidar_vlp16": "lidar_vlp16/000375.txt",
+      "radar_6455": "radar_6455/000375.txt"
+    },
+    "376": {
+      "calibration": "calibration/000376.json",
+      "camera_front": "camera_front/000376.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000376.json",
+      "lidar_vlp16": "lidar_vlp16/000376.txt",
+      "radar_6455": "radar_6455/000376.txt"
+    },
+    "377": {
+      "calibration": "calibration/000377.json",
+      "camera_front": "camera_front/000377.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000377.json",
+      "lidar_vlp16": "lidar_vlp16/000377.txt",
+      "radar_6455": "radar_6455/000377.txt"
+    },
+    "378": {
+      "calibration": "calibration/000378.json",
+      "camera_front": "camera_front/000378.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000378.json",
+      "lidar_vlp16": "lidar_vlp16/000378.txt",
+      "radar_6455": "radar_6455/000378.txt"
+    },
+    "379": {
+      "calibration": "calibration/000379.json",
+      "camera_front": "camera_front/000379.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000379.json",
+      "lidar_vlp16": "lidar_vlp16/000379.txt",
+      "radar_6455": "radar_6455/000379.txt"
+    },
+    "380": {
+      "calibration": "calibration/000380.json",
+      "camera_front": "camera_front/000380.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000380.json",
+      "lidar_vlp16": "lidar_vlp16/000380.txt",
+      "radar_6455": "radar_6455/000380.txt"
+    },
+    "381": {
+      "calibration": "calibration/000381.json",
+      "camera_front": "camera_front/000381.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000381.json",
+      "lidar_vlp16": "lidar_vlp16/000381.txt",
+      "radar_6455": "radar_6455/000381.txt"
+    },
+    "382": {
+      "calibration": "calibration/000382.json",
+      "camera_front": "camera_front/000382.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000382.json",
+      "lidar_vlp16": "lidar_vlp16/000382.txt",
+      "radar_6455": "radar_6455/000382.txt"
+    },
+    "383": {
+      "calibration": "calibration/000383.json",
+      "camera_front": "camera_front/000383.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000383.json",
+      "lidar_vlp16": "lidar_vlp16/000383.txt",
+      "radar_6455": "radar_6455/000383.txt"
+    },
+    "384": {
+      "calibration": "calibration/000384.json",
+      "camera_front": "camera_front/000384.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000384.json",
+      "lidar_vlp16": "lidar_vlp16/000384.txt",
+      "radar_6455": "radar_6455/000384.txt"
+    },
+    "385": {
+      "calibration": "calibration/000385.json",
+      "camera_front": "camera_front/000385.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000385.json",
+      "lidar_vlp16": "lidar_vlp16/000385.txt",
+      "radar_6455": "radar_6455/000385.txt"
+    },
+    "386": {
+      "calibration": "calibration/000386.json",
+      "camera_front": "camera_front/000386.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000386.json",
+      "lidar_vlp16": "lidar_vlp16/000386.txt",
+      "radar_6455": "radar_6455/000386.txt"
+    },
+    "387": {
+      "calibration": "calibration/000387.json",
+      "camera_front": "camera_front/000387.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000387.json",
+      "lidar_vlp16": "lidar_vlp16/000387.txt",
+      "radar_6455": "radar_6455/000387.txt"
+    },
+    "388": {
+      "calibration": "calibration/000388.json",
+      "camera_front": "camera_front/000388.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000388.json",
+      "lidar_vlp16": "lidar_vlp16/000388.txt",
+      "radar_6455": "radar_6455/000388.txt"
+    },
+    "389": {
+      "calibration": "calibration/000389.json",
+      "camera_front": "camera_front/000389.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000389.json",
+      "lidar_vlp16": "lidar_vlp16/000389.txt",
+      "radar_6455": "radar_6455/000389.txt"
+    },
+    "390": {
+      "calibration": "calibration/000390.json",
+      "camera_front": "camera_front/000390.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000390.json",
+      "lidar_vlp16": "lidar_vlp16/000390.txt",
+      "radar_6455": "radar_6455/000390.txt"
+    },
+    "391": {
+      "calibration": "calibration/000391.json",
+      "camera_front": "camera_front/000391.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000391.json",
+      "lidar_vlp16": "lidar_vlp16/000391.txt",
+      "radar_6455": "radar_6455/000391.txt"
+    },
+    "392": {
+      "calibration": "calibration/000392.json",
+      "camera_front": "camera_front/000392.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000392.json",
+      "lidar_vlp16": "lidar_vlp16/000392.txt",
+      "radar_6455": "radar_6455/000392.txt"
+    },
+    "393": {
+      "calibration": "calibration/000393.json",
+      "camera_front": "camera_front/000393.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000393.json",
+      "lidar_vlp16": "lidar_vlp16/000393.txt",
+      "radar_6455": "radar_6455/000393.txt"
+    },
+    "394": {
+      "calibration": "calibration/000394.json",
+      "camera_front": "camera_front/000394.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000394.json",
+      "lidar_vlp16": "lidar_vlp16/000394.txt",
+      "radar_6455": "radar_6455/000394.txt"
+    },
+    "395": {
+      "calibration": "calibration/000395.json",
+      "camera_front": "camera_front/000395.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000395.json",
+      "lidar_vlp16": "lidar_vlp16/000395.txt",
+      "radar_6455": "radar_6455/000395.txt"
+    },
+    "396": {
+      "calibration": "calibration/000396.json",
+      "camera_front": "camera_front/000396.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000396.json",
+      "lidar_vlp16": "lidar_vlp16/000396.txt",
+      "radar_6455": "radar_6455/000396.txt"
+    },
+    "397": {
+      "calibration": "calibration/000397.json",
+      "camera_front": "camera_front/000397.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000397.json",
+      "lidar_vlp16": "lidar_vlp16/000397.txt",
+      "radar_6455": "radar_6455/000397.txt"
+    },
+    "398": {
+      "calibration": "calibration/000398.json",
+      "camera_front": "camera_front/000398.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000398.json",
+      "lidar_vlp16": "lidar_vlp16/000398.txt",
+      "radar_6455": "radar_6455/000398.txt"
+    },
+    "399": {
+      "calibration": "calibration/000399.json",
+      "camera_front": "camera_front/000399.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000399.json",
+      "lidar_vlp16": "lidar_vlp16/000399.txt",
+      "radar_6455": "radar_6455/000399.txt"
+    },
+    "400": {
+      "calibration": "calibration/000400.json",
+      "camera_front": "camera_front/000400.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000400.json",
+      "lidar_vlp16": "lidar_vlp16/000400.txt",
+      "radar_6455": "radar_6455/000400.txt"
+    },
+    "401": {
+      "calibration": "calibration/000401.json",
+      "camera_front": "camera_front/000401.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000401.json",
+      "lidar_vlp16": "lidar_vlp16/000401.txt",
+      "radar_6455": "radar_6455/000401.txt"
+    },
+    "402": {
+      "calibration": "calibration/000402.json",
+      "camera_front": "camera_front/000402.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000402.json",
+      "lidar_vlp16": "lidar_vlp16/000402.txt",
+      "radar_6455": "radar_6455/000402.txt"
+    },
+    "403": {
+      "calibration": "calibration/000403.json",
+      "camera_front": "camera_front/000403.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000403.json",
+      "lidar_vlp16": "lidar_vlp16/000403.txt",
+      "radar_6455": "radar_6455/000403.txt"
+    },
+    "404": {
+      "calibration": "calibration/000404.json",
+      "camera_front": "camera_front/000404.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000404.json",
+      "lidar_vlp16": "lidar_vlp16/000404.txt",
+      "radar_6455": "radar_6455/000404.txt"
+    },
+    "405": {
+      "calibration": "calibration/000405.json",
+      "camera_front": "camera_front/000405.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000405.json",
+      "lidar_vlp16": "lidar_vlp16/000405.txt",
+      "radar_6455": "radar_6455/000405.txt"
+    },
+    "406": {
+      "calibration": "calibration/000406.json",
+      "camera_front": "camera_front/000406.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000406.json",
+      "lidar_vlp16": "lidar_vlp16/000406.txt",
+      "radar_6455": "radar_6455/000406.txt"
+    },
+    "407": {
+      "calibration": "calibration/000407.json",
+      "camera_front": "camera_front/000407.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000407.json",
+      "lidar_vlp16": "lidar_vlp16/000407.txt",
+      "radar_6455": "radar_6455/000407.txt"
+    },
+    "408": {
+      "calibration": "calibration/000408.json",
+      "camera_front": "camera_front/000408.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000408.json",
+      "lidar_vlp16": "lidar_vlp16/000408.txt",
+      "radar_6455": "radar_6455/000408.txt"
+    },
+    "409": {
+      "calibration": "calibration/000409.json",
+      "camera_front": "camera_front/000409.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000409.json",
+      "lidar_vlp16": "lidar_vlp16/000409.txt",
+      "radar_6455": "radar_6455/000409.txt"
+    },
+    "410": {
+      "calibration": "calibration/000410.json",
+      "camera_front": "camera_front/000410.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000410.json",
+      "lidar_vlp16": "lidar_vlp16/000410.txt",
+      "radar_6455": "radar_6455/000410.txt"
+    },
+    "411": {
+      "calibration": "calibration/000411.json",
+      "camera_front": "camera_front/000411.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000411.json",
+      "lidar_vlp16": "lidar_vlp16/000411.txt",
+      "radar_6455": "radar_6455/000411.txt"
+    },
+    "412": {
+      "calibration": "calibration/000412.json",
+      "camera_front": "camera_front/000412.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000412.json",
+      "lidar_vlp16": "lidar_vlp16/000412.txt",
+      "radar_6455": "radar_6455/000412.txt"
+    },
+    "413": {
+      "calibration": "calibration/000413.json",
+      "camera_front": "camera_front/000413.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000413.json",
+      "lidar_vlp16": "lidar_vlp16/000413.txt",
+      "radar_6455": "radar_6455/000413.txt"
+    },
+    "414": {
+      "calibration": "calibration/000414.json",
+      "camera_front": "camera_front/000414.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000414.json",
+      "lidar_vlp16": "lidar_vlp16/000414.txt",
+      "radar_6455": "radar_6455/000414.txt"
+    },
+    "415": {
+      "calibration": "calibration/000415.json",
+      "camera_front": "camera_front/000415.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000415.json",
+      "lidar_vlp16": "lidar_vlp16/000415.txt",
+      "radar_6455": "radar_6455/000415.txt"
+    },
+    "416": {
+      "calibration": "calibration/000416.json",
+      "camera_front": "camera_front/000416.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000416.json",
+      "lidar_vlp16": "lidar_vlp16/000416.txt",
+      "radar_6455": "radar_6455/000416.txt"
+    },
+    "417": {
+      "calibration": "calibration/000417.json",
+      "camera_front": "camera_front/000417.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000417.json",
+      "lidar_vlp16": "lidar_vlp16/000417.txt",
+      "radar_6455": "radar_6455/000417.txt"
+    },
+    "418": {
+      "calibration": "calibration/000418.json",
+      "camera_front": "camera_front/000418.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000418.json",
+      "lidar_vlp16": "lidar_vlp16/000418.txt",
+      "radar_6455": "radar_6455/000418.txt"
+    },
+    "419": {
+      "calibration": "calibration/000419.json",
+      "camera_front": "camera_front/000419.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000419.json",
+      "lidar_vlp16": "lidar_vlp16/000419.txt",
+      "radar_6455": "radar_6455/000419.txt"
+    },
+    "420": {
+      "calibration": "calibration/000420.json",
+      "camera_front": "camera_front/000420.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000420.json",
+      "lidar_vlp16": "lidar_vlp16/000420.txt",
+      "radar_6455": "radar_6455/000420.txt"
+    },
+    "421": {
+      "calibration": "calibration/000421.json",
+      "camera_front": "camera_front/000421.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000421.json",
+      "lidar_vlp16": "lidar_vlp16/000421.txt",
+      "radar_6455": "radar_6455/000421.txt"
+    },
+    "422": {
+      "calibration": "calibration/000422.json",
+      "camera_front": "camera_front/000422.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000422.json",
+      "lidar_vlp16": "lidar_vlp16/000422.txt",
+      "radar_6455": "radar_6455/000422.txt"
+    },
+    "423": {
+      "calibration": "calibration/000423.json",
+      "camera_front": "camera_front/000423.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000423.json",
+      "lidar_vlp16": "lidar_vlp16/000423.txt",
+      "radar_6455": "radar_6455/000423.txt"
+    },
+    "424": {
+      "calibration": "calibration/000424.json",
+      "camera_front": "camera_front/000424.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000424.json",
+      "lidar_vlp16": "lidar_vlp16/000424.txt",
+      "radar_6455": "radar_6455/000424.txt"
+    },
+    "425": {
+      "calibration": "calibration/000425.json",
+      "camera_front": "camera_front/000425.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000425.json",
+      "lidar_vlp16": "lidar_vlp16/000425.txt",
+      "radar_6455": "radar_6455/000425.txt"
+    },
+    "426": {
+      "calibration": "calibration/000426.json",
+      "camera_front": "camera_front/000426.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000426.json",
+      "lidar_vlp16": "lidar_vlp16/000426.txt",
+      "radar_6455": "radar_6455/000426.txt"
+    },
+    "427": {
+      "calibration": "calibration/000427.json",
+      "camera_front": "camera_front/000427.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000427.json",
+      "lidar_vlp16": "lidar_vlp16/000427.txt",
+      "radar_6455": "radar_6455/000427.txt"
+    },
+    "428": {
+      "calibration": "calibration/000428.json",
+      "camera_front": "camera_front/000428.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000428.json",
+      "lidar_vlp16": "lidar_vlp16/000428.txt",
+      "radar_6455": "radar_6455/000428.txt"
+    },
+    "429": {
+      "calibration": "calibration/000429.json",
+      "camera_front": "camera_front/000429.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000429.json",
+      "lidar_vlp16": "lidar_vlp16/000429.txt",
+      "radar_6455": "radar_6455/000429.txt"
+    },
+    "430": {
+      "calibration": "calibration/000430.json",
+      "camera_front": "camera_front/000430.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000430.json",
+      "lidar_vlp16": "lidar_vlp16/000430.txt",
+      "radar_6455": "radar_6455/000430.txt"
+    },
+    "431": {
+      "calibration": "calibration/000431.json",
+      "camera_front": "camera_front/000431.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000431.json",
+      "lidar_vlp16": "lidar_vlp16/000431.txt",
+      "radar_6455": "radar_6455/000431.txt"
+    },
+    "432": {
+      "calibration": "calibration/000432.json",
+      "camera_front": "camera_front/000432.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000432.json",
+      "lidar_vlp16": "lidar_vlp16/000432.txt",
+      "radar_6455": "radar_6455/000432.txt"
+    },
+    "433": {
+      "calibration": "calibration/000433.json",
+      "camera_front": "camera_front/000433.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000433.json",
+      "lidar_vlp16": "lidar_vlp16/000433.txt",
+      "radar_6455": "radar_6455/000433.txt"
+    },
+    "434": {
+      "calibration": "calibration/000434.json",
+      "camera_front": "camera_front/000434.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000434.json",
+      "lidar_vlp16": "lidar_vlp16/000434.txt",
+      "radar_6455": "radar_6455/000434.txt"
+    },
+    "435": {
+      "calibration": "calibration/000435.json",
+      "camera_front": "camera_front/000435.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000435.json",
+      "lidar_vlp16": "lidar_vlp16/000435.txt",
+      "radar_6455": "radar_6455/000435.txt"
+    },
+    "436": {
+      "calibration": "calibration/000436.json",
+      "camera_front": "camera_front/000436.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000436.json",
+      "lidar_vlp16": "lidar_vlp16/000436.txt",
+      "radar_6455": "radar_6455/000436.txt"
+    },
+    "437": {
+      "calibration": "calibration/000437.json",
+      "camera_front": "camera_front/000437.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000437.json",
+      "lidar_vlp16": "lidar_vlp16/000437.txt",
+      "radar_6455": "radar_6455/000437.txt"
+    },
+    "438": {
+      "calibration": "calibration/000438.json",
+      "camera_front": "camera_front/000438.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000438.json",
+      "lidar_vlp16": "lidar_vlp16/000438.txt",
+      "radar_6455": "radar_6455/000438.txt"
+    },
+    "439": {
+      "calibration": "calibration/000439.json",
+      "camera_front": "camera_front/000439.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000439.json",
+      "lidar_vlp16": "lidar_vlp16/000439.txt",
+      "radar_6455": "radar_6455/000439.txt"
+    },
+    "440": {
+      "calibration": "calibration/000440.json",
+      "camera_front": "camera_front/000440.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000440.json",
+      "lidar_vlp16": "lidar_vlp16/000440.txt",
+      "radar_6455": "radar_6455/000440.txt"
+    },
+    "441": {
+      "calibration": "calibration/000441.json",
+      "camera_front": "camera_front/000441.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000441.json",
+      "lidar_vlp16": "lidar_vlp16/000441.txt",
+      "radar_6455": "radar_6455/000441.txt"
+    },
+    "442": {
+      "calibration": "calibration/000442.json",
+      "camera_front": "camera_front/000442.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000442.json",
+      "lidar_vlp16": "lidar_vlp16/000442.txt",
+      "radar_6455": "radar_6455/000442.txt"
+    },
+    "443": {
+      "calibration": "calibration/000443.json",
+      "camera_front": "camera_front/000443.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000443.json",
+      "lidar_vlp16": "lidar_vlp16/000443.txt",
+      "radar_6455": "radar_6455/000443.txt"
+    },
+    "444": {
+      "calibration": "calibration/000444.json",
+      "camera_front": "camera_front/000444.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000444.json",
+      "lidar_vlp16": "lidar_vlp16/000444.txt",
+      "radar_6455": "radar_6455/000444.txt"
+    },
+    "445": {
+      "calibration": "calibration/000445.json",
+      "camera_front": "camera_front/000445.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000445.json",
+      "lidar_vlp16": "lidar_vlp16/000445.txt",
+      "radar_6455": "radar_6455/000445.txt"
+    },
+    "446": {
+      "calibration": "calibration/000446.json",
+      "camera_front": "camera_front/000446.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000446.json",
+      "lidar_vlp16": "lidar_vlp16/000446.txt",
+      "radar_6455": "radar_6455/000446.txt"
+    },
+    "447": {
+      "calibration": "calibration/000447.json",
+      "camera_front": "camera_front/000447.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000447.json",
+      "lidar_vlp16": "lidar_vlp16/000447.txt",
+      "radar_6455": "radar_6455/000447.txt"
+    },
+    "448": {
+      "calibration": "calibration/000448.json",
+      "camera_front": "camera_front/000448.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000448.json",
+      "lidar_vlp16": "lidar_vlp16/000448.txt",
+      "radar_6455": "radar_6455/000448.txt"
+    },
+    "449": {
+      "calibration": "calibration/000449.json",
+      "camera_front": "camera_front/000449.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000449.json",
+      "lidar_vlp16": "lidar_vlp16/000449.txt",
+      "radar_6455": "radar_6455/000449.txt"
+    },
+    "450": {
+      "calibration": "calibration/000450.json",
+      "camera_front": "camera_front/000450.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000450.json",
+      "lidar_vlp16": "lidar_vlp16/000450.txt",
+      "radar_6455": "radar_6455/000450.txt"
+    },
+    "451": {
+      "calibration": "calibration/000451.json",
+      "camera_front": "camera_front/000451.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000451.json",
+      "lidar_vlp16": "lidar_vlp16/000451.txt",
+      "radar_6455": "radar_6455/000451.txt"
+    },
+    "452": {
+      "calibration": "calibration/000452.json",
+      "camera_front": "camera_front/000452.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000452.json",
+      "lidar_vlp16": "lidar_vlp16/000452.txt",
+      "radar_6455": "radar_6455/000452.txt"
+    },
+    "453": {
+      "calibration": "calibration/000453.json",
+      "camera_front": "camera_front/000453.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000453.json",
+      "lidar_vlp16": "lidar_vlp16/000453.txt",
+      "radar_6455": "radar_6455/000453.txt"
+    },
+    "454": {
+      "calibration": "calibration/000454.json",
+      "camera_front": "camera_front/000454.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000454.json",
+      "lidar_vlp16": "lidar_vlp16/000454.txt",
+      "radar_6455": "radar_6455/000454.txt"
+    },
+    "455": {
+      "calibration": "calibration/000455.json",
+      "camera_front": "camera_front/000455.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000455.json",
+      "lidar_vlp16": "lidar_vlp16/000455.txt",
+      "radar_6455": "radar_6455/000455.txt"
+    },
+    "456": {
+      "calibration": "calibration/000456.json",
+      "camera_front": "camera_front/000456.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000456.json",
+      "lidar_vlp16": "lidar_vlp16/000456.txt",
+      "radar_6455": "radar_6455/000456.txt"
+    },
+    "457": {
+      "calibration": "calibration/000457.json",
+      "camera_front": "camera_front/000457.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000457.json",
+      "lidar_vlp16": "lidar_vlp16/000457.txt",
+      "radar_6455": "radar_6455/000457.txt"
+    },
+    "458": {
+      "calibration": "calibration/000458.json",
+      "camera_front": "camera_front/000458.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000458.json",
+      "lidar_vlp16": "lidar_vlp16/000458.txt",
+      "radar_6455": "radar_6455/000458.txt"
+    },
+    "459": {
+      "calibration": "calibration/000459.json",
+      "camera_front": "camera_front/000459.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000459.json",
+      "lidar_vlp16": "lidar_vlp16/000459.txt",
+      "radar_6455": "radar_6455/000459.txt"
+    },
+    "460": {
+      "calibration": "calibration/000460.json",
+      "camera_front": "camera_front/000460.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000460.json",
+      "lidar_vlp16": "lidar_vlp16/000460.txt",
+      "radar_6455": "radar_6455/000460.txt"
+    },
+    "461": {
+      "calibration": "calibration/000461.json",
+      "camera_front": "camera_front/000461.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000461.json",
+      "lidar_vlp16": "lidar_vlp16/000461.txt",
+      "radar_6455": "radar_6455/000461.txt"
+    },
+    "462": {
+      "calibration": "calibration/000462.json",
+      "camera_front": "camera_front/000462.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000462.json",
+      "lidar_vlp16": "lidar_vlp16/000462.txt",
+      "radar_6455": "radar_6455/000462.txt"
+    },
+    "463": {
+      "calibration": "calibration/000463.json",
+      "camera_front": "camera_front/000463.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000463.json",
+      "lidar_vlp16": "lidar_vlp16/000463.txt",
+      "radar_6455": "radar_6455/000463.txt"
+    },
+    "464": {
+      "calibration": "calibration/000464.json",
+      "camera_front": "camera_front/000464.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000464.json",
+      "lidar_vlp16": "lidar_vlp16/000464.txt",
+      "radar_6455": "radar_6455/000464.txt"
+    },
+    "465": {
+      "calibration": "calibration/000465.json",
+      "camera_front": "camera_front/000465.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000465.json",
+      "lidar_vlp16": "lidar_vlp16/000465.txt",
+      "radar_6455": "radar_6455/000465.txt"
+    },
+    "466": {
+      "calibration": "calibration/000466.json",
+      "camera_front": "camera_front/000466.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000466.json",
+      "lidar_vlp16": "lidar_vlp16/000466.txt",
+      "radar_6455": "radar_6455/000466.txt"
+    },
+    "467": {
+      "calibration": "calibration/000467.json",
+      "camera_front": "camera_front/000467.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000467.json",
+      "lidar_vlp16": "lidar_vlp16/000467.txt",
+      "radar_6455": "radar_6455/000467.txt"
+    },
+    "468": {
+      "calibration": "calibration/000468.json",
+      "camera_front": "camera_front/000468.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000468.json",
+      "lidar_vlp16": "lidar_vlp16/000468.txt",
+      "radar_6455": "radar_6455/000468.txt"
+    },
+    "469": {
+      "calibration": "calibration/000469.json",
+      "camera_front": "camera_front/000469.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000469.json",
+      "lidar_vlp16": "lidar_vlp16/000469.txt",
+      "radar_6455": "radar_6455/000469.txt"
+    },
+    "470": {
+      "calibration": "calibration/000470.json",
+      "camera_front": "camera_front/000470.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000470.json",
+      "lidar_vlp16": "lidar_vlp16/000470.txt",
+      "radar_6455": "radar_6455/000470.txt"
+    },
+    "471": {
+      "calibration": "calibration/000471.json",
+      "camera_front": "camera_front/000471.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000471.json",
+      "lidar_vlp16": "lidar_vlp16/000471.txt",
+      "radar_6455": "radar_6455/000471.txt"
+    },
+    "472": {
+      "calibration": "calibration/000472.json",
+      "camera_front": "camera_front/000472.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000472.json",
+      "lidar_vlp16": "lidar_vlp16/000472.txt",
+      "radar_6455": "radar_6455/000472.txt"
+    },
+    "473": {
+      "calibration": "calibration/000473.json",
+      "camera_front": "camera_front/000473.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000473.json",
+      "lidar_vlp16": "lidar_vlp16/000473.txt",
+      "radar_6455": "radar_6455/000473.txt"
+    },
+    "474": {
+      "calibration": "calibration/000474.json",
+      "camera_front": "camera_front/000474.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000474.json",
+      "lidar_vlp16": "lidar_vlp16/000474.txt",
+      "radar_6455": "radar_6455/000474.txt"
+    },
+    "475": {
+      "calibration": "calibration/000475.json",
+      "camera_front": "camera_front/000475.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000475.json",
+      "lidar_vlp16": "lidar_vlp16/000475.txt",
+      "radar_6455": "radar_6455/000475.txt"
+    },
+    "476": {
+      "calibration": "calibration/000476.json",
+      "camera_front": "camera_front/000476.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000476.json",
+      "lidar_vlp16": "lidar_vlp16/000476.txt",
+      "radar_6455": "radar_6455/000476.txt"
+    },
+    "477": {
+      "calibration": "calibration/000477.json",
+      "camera_front": "camera_front/000477.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000477.json",
+      "lidar_vlp16": "lidar_vlp16/000477.txt",
+      "radar_6455": "radar_6455/000477.txt"
+    },
+    "478": {
+      "calibration": "calibration/000478.json",
+      "camera_front": "camera_front/000478.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000478.json",
+      "lidar_vlp16": "lidar_vlp16/000478.txt",
+      "radar_6455": "radar_6455/000478.txt"
+    },
+    "479": {
+      "calibration": "calibration/000479.json",
+      "camera_front": "camera_front/000479.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000479.json",
+      "lidar_vlp16": "lidar_vlp16/000479.txt",
+      "radar_6455": "radar_6455/000479.txt"
+    },
+    "480": {
+      "calibration": "calibration/000480.json",
+      "camera_front": "camera_front/000480.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000480.json",
+      "lidar_vlp16": "lidar_vlp16/000480.txt",
+      "radar_6455": "radar_6455/000480.txt"
+    },
+    "481": {
+      "calibration": "calibration/000481.json",
+      "camera_front": "camera_front/000481.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000481.json",
+      "lidar_vlp16": "lidar_vlp16/000481.txt",
+      "radar_6455": "radar_6455/000481.txt"
+    },
+    "482": {
+      "calibration": "calibration/000482.json",
+      "camera_front": "camera_front/000482.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000482.json",
+      "lidar_vlp16": "lidar_vlp16/000482.txt",
+      "radar_6455": "radar_6455/000482.txt"
+    },
+    "483": {
+      "calibration": "calibration/000483.json",
+      "camera_front": "camera_front/000483.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000483.json",
+      "lidar_vlp16": "lidar_vlp16/000483.txt",
+      "radar_6455": "radar_6455/000483.txt"
+    },
+    "484": {
+      "calibration": "calibration/000484.json",
+      "camera_front": "camera_front/000484.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000484.json",
+      "lidar_vlp16": "lidar_vlp16/000484.txt",
+      "radar_6455": "radar_6455/000484.txt"
+    },
+    "485": {
+      "calibration": "calibration/000485.json",
+      "camera_front": "camera_front/000485.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000485.json",
+      "lidar_vlp16": "lidar_vlp16/000485.txt",
+      "radar_6455": "radar_6455/000485.txt"
+    },
+    "486": {
+      "calibration": "calibration/000486.json",
+      "camera_front": "camera_front/000486.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000486.json",
+      "lidar_vlp16": "lidar_vlp16/000486.txt",
+      "radar_6455": "radar_6455/000486.txt"
+    },
+    "487": {
+      "calibration": "calibration/000487.json",
+      "camera_front": "camera_front/000487.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000487.json",
+      "lidar_vlp16": "lidar_vlp16/000487.txt",
+      "radar_6455": "radar_6455/000487.txt"
+    },
+    "488": {
+      "calibration": "calibration/000488.json",
+      "camera_front": "camera_front/000488.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000488.json",
+      "lidar_vlp16": "lidar_vlp16/000488.txt",
+      "radar_6455": "radar_6455/000488.txt"
+    },
+    "489": {
+      "calibration": "calibration/000489.json",
+      "camera_front": "camera_front/000489.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000489.json",
+      "lidar_vlp16": "lidar_vlp16/000489.txt",
+      "radar_6455": "radar_6455/000489.txt"
+    },
+    "490": {
+      "calibration": "calibration/000490.json",
+      "camera_front": "camera_front/000490.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000490.json",
+      "lidar_vlp16": "lidar_vlp16/000490.txt",
+      "radar_6455": "radar_6455/000490.txt"
+    },
+    "491": {
+      "calibration": "calibration/000491.json",
+      "camera_front": "camera_front/000491.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000491.json",
+      "lidar_vlp16": "lidar_vlp16/000491.txt",
+      "radar_6455": "radar_6455/000491.txt"
+    },
+    "492": {
+      "calibration": "calibration/000492.json",
+      "camera_front": "camera_front/000492.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000492.json",
+      "lidar_vlp16": "lidar_vlp16/000492.txt",
+      "radar_6455": "radar_6455/000492.txt"
+    },
+    "493": {
+      "calibration": "calibration/000493.json",
+      "camera_front": "camera_front/000493.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000493.json",
+      "lidar_vlp16": "lidar_vlp16/000493.txt",
+      "radar_6455": "radar_6455/000493.txt"
+    },
+    "494": {
+      "calibration": "calibration/000494.json",
+      "camera_front": "camera_front/000494.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000494.json",
+      "lidar_vlp16": "lidar_vlp16/000494.txt",
+      "radar_6455": "radar_6455/000494.txt"
+    },
+    "495": {
+      "calibration": "calibration/000495.json",
+      "camera_front": "camera_front/000495.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000495.json",
+      "lidar_vlp16": "lidar_vlp16/000495.txt",
+      "radar_6455": "radar_6455/000495.txt"
+    },
+    "496": {
+      "calibration": "calibration/000496.json",
+      "camera_front": "camera_front/000496.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000496.json",
+      "lidar_vlp16": "lidar_vlp16/000496.txt",
+      "radar_6455": "radar_6455/000496.txt"
+    },
+    "497": {
+      "calibration": "calibration/000497.json",
+      "camera_front": "camera_front/000497.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000497.json",
+      "lidar_vlp16": "lidar_vlp16/000497.txt",
+      "radar_6455": "radar_6455/000497.txt"
+    },
+    "498": {
+      "calibration": "calibration/000498.json",
+      "camera_front": "camera_front/000498.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000498.json",
+      "lidar_vlp16": "lidar_vlp16/000498.txt",
+      "radar_6455": "radar_6455/000498.txt"
+    },
+    "499": {
+      "calibration": "calibration/000499.json",
+      "camera_front": "camera_front/000499.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000499.json",
+      "lidar_vlp16": "lidar_vlp16/000499.txt",
+      "radar_6455": "radar_6455/000499.txt"
+    },
+    "500": {
+      "calibration": "calibration/000500.json",
+      "camera_front": "camera_front/000500.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000500.json",
+      "lidar_vlp16": "lidar_vlp16/000500.txt",
+      "radar_6455": "radar_6455/000500.txt"
+    },
+    "501": {
+      "calibration": "calibration/000501.json",
+      "camera_front": "camera_front/000501.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000501.json",
+      "lidar_vlp16": "lidar_vlp16/000501.txt",
+      "radar_6455": "radar_6455/000501.txt"
+    },
+    "502": {
+      "calibration": "calibration/000502.json",
+      "camera_front": "camera_front/000502.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000502.json",
+      "lidar_vlp16": "lidar_vlp16/000502.txt",
+      "radar_6455": "radar_6455/000502.txt"
+    },
+    "503": {
+      "calibration": "calibration/000503.json",
+      "camera_front": "camera_front/000503.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000503.json",
+      "lidar_vlp16": "lidar_vlp16/000503.txt",
+      "radar_6455": "radar_6455/000503.txt"
+    },
+    "504": {
+      "calibration": "calibration/000504.json",
+      "camera_front": "camera_front/000504.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000504.json",
+      "lidar_vlp16": "lidar_vlp16/000504.txt",
+      "radar_6455": "radar_6455/000504.txt"
+    },
+    "505": {
+      "calibration": "calibration/000505.json",
+      "camera_front": "camera_front/000505.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000505.json",
+      "lidar_vlp16": "lidar_vlp16/000505.txt",
+      "radar_6455": "radar_6455/000505.txt"
+    },
+    "506": {
+      "calibration": "calibration/000506.json",
+      "camera_front": "camera_front/000506.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000506.json",
+      "lidar_vlp16": "lidar_vlp16/000506.txt",
+      "radar_6455": "radar_6455/000506.txt"
+    },
+    "507": {
+      "calibration": "calibration/000507.json",
+      "camera_front": "camera_front/000507.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000507.json",
+      "lidar_vlp16": "lidar_vlp16/000507.txt",
+      "radar_6455": "radar_6455/000507.txt"
+    },
+    "508": {
+      "calibration": "calibration/000508.json",
+      "camera_front": "camera_front/000508.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000508.json",
+      "lidar_vlp16": "lidar_vlp16/000508.txt",
+      "radar_6455": "radar_6455/000508.txt"
+    },
+    "509": {
+      "calibration": "calibration/000509.json",
+      "camera_front": "camera_front/000509.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000509.json",
+      "lidar_vlp16": "lidar_vlp16/000509.txt",
+      "radar_6455": "radar_6455/000509.txt"
+    },
+    "510": {
+      "calibration": "calibration/000510.json",
+      "camera_front": "camera_front/000510.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000510.json",
+      "lidar_vlp16": "lidar_vlp16/000510.txt",
+      "radar_6455": "radar_6455/000510.txt"
+    },
+    "511": {
+      "calibration": "calibration/000511.json",
+      "camera_front": "camera_front/000511.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000511.json",
+      "lidar_vlp16": "lidar_vlp16/000511.txt",
+      "radar_6455": "radar_6455/000511.txt"
+    },
+    "512": {
+      "calibration": "calibration/000512.json",
+      "camera_front": "camera_front/000512.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000512.json",
+      "lidar_vlp16": "lidar_vlp16/000512.txt",
+      "radar_6455": "radar_6455/000512.txt"
+    },
+    "513": {
+      "calibration": "calibration/000513.json",
+      "camera_front": "camera_front/000513.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000513.json",
+      "lidar_vlp16": "lidar_vlp16/000513.txt",
+      "radar_6455": "radar_6455/000513.txt"
+    },
+    "514": {
+      "calibration": "calibration/000514.json",
+      "camera_front": "camera_front/000514.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000514.json",
+      "lidar_vlp16": "lidar_vlp16/000514.txt",
+      "radar_6455": "radar_6455/000514.txt"
+    },
+    "515": {
+      "calibration": "calibration/000515.json",
+      "camera_front": "camera_front/000515.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000515.json",
+      "lidar_vlp16": "lidar_vlp16/000515.txt",
+      "radar_6455": "radar_6455/000515.txt"
+    },
+    "516": {
+      "calibration": "calibration/000516.json",
+      "camera_front": "camera_front/000516.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000516.json",
+      "lidar_vlp16": "lidar_vlp16/000516.txt",
+      "radar_6455": "radar_6455/000516.txt"
+    },
+    "517": {
+      "calibration": "calibration/000517.json",
+      "camera_front": "camera_front/000517.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000517.json",
+      "lidar_vlp16": "lidar_vlp16/000517.txt",
+      "radar_6455": "radar_6455/000517.txt"
+    },
+    "518": {
+      "calibration": "calibration/000518.json",
+      "camera_front": "camera_front/000518.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000518.json",
+      "lidar_vlp16": "lidar_vlp16/000518.txt",
+      "radar_6455": "radar_6455/000518.txt"
+    },
+    "519": {
+      "calibration": "calibration/000519.json",
+      "camera_front": "camera_front/000519.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000519.json",
+      "lidar_vlp16": "lidar_vlp16/000519.txt",
+      "radar_6455": "radar_6455/000519.txt"
+    },
+    "520": {
+      "calibration": "calibration/000520.json",
+      "camera_front": "camera_front/000520.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000520.json",
+      "lidar_vlp16": "lidar_vlp16/000520.txt",
+      "radar_6455": "radar_6455/000520.txt"
+    },
+    "521": {
+      "calibration": "calibration/000521.json",
+      "camera_front": "camera_front/000521.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000521.json",
+      "lidar_vlp16": "lidar_vlp16/000521.txt",
+      "radar_6455": "radar_6455/000521.txt"
+    },
+    "522": {
+      "calibration": "calibration/000522.json",
+      "camera_front": "camera_front/000522.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000522.json",
+      "lidar_vlp16": "lidar_vlp16/000522.txt",
+      "radar_6455": "radar_6455/000522.txt"
+    },
+    "523": {
+      "calibration": "calibration/000523.json",
+      "camera_front": "camera_front/000523.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000523.json",
+      "lidar_vlp16": "lidar_vlp16/000523.txt",
+      "radar_6455": "radar_6455/000523.txt"
+    },
+    "524": {
+      "calibration": "calibration/000524.json",
+      "camera_front": "camera_front/000524.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000524.json",
+      "lidar_vlp16": "lidar_vlp16/000524.txt",
+      "radar_6455": "radar_6455/000524.txt"
+    },
+    "525": {
+      "calibration": "calibration/000525.json",
+      "camera_front": "camera_front/000525.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000525.json",
+      "lidar_vlp16": "lidar_vlp16/000525.txt",
+      "radar_6455": "radar_6455/000525.txt"
+    },
+    "526": {
+      "calibration": "calibration/000526.json",
+      "camera_front": "camera_front/000526.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000526.json",
+      "lidar_vlp16": "lidar_vlp16/000526.txt",
+      "radar_6455": "radar_6455/000526.txt"
+    },
+    "527": {
+      "calibration": "calibration/000527.json",
+      "camera_front": "camera_front/000527.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000527.json",
+      "lidar_vlp16": "lidar_vlp16/000527.txt",
+      "radar_6455": "radar_6455/000527.txt"
+    },
+    "528": {
+      "calibration": "calibration/000528.json",
+      "camera_front": "camera_front/000528.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000528.json",
+      "lidar_vlp16": "lidar_vlp16/000528.txt",
+      "radar_6455": "radar_6455/000528.txt"
+    },
+    "529": {
+      "calibration": "calibration/000529.json",
+      "camera_front": "camera_front/000529.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000529.json",
+      "lidar_vlp16": "lidar_vlp16/000529.txt",
+      "radar_6455": "radar_6455/000529.txt"
+    },
+    "530": {
+      "calibration": "calibration/000530.json",
+      "camera_front": "camera_front/000530.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000530.json",
+      "lidar_vlp16": "lidar_vlp16/000530.txt",
+      "radar_6455": "radar_6455/000530.txt"
+    },
+    "531": {
+      "calibration": "calibration/000531.json",
+      "camera_front": "camera_front/000531.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000531.json",
+      "lidar_vlp16": "lidar_vlp16/000531.txt",
+      "radar_6455": "radar_6455/000531.txt"
+    },
+    "532": {
+      "calibration": "calibration/000532.json",
+      "camera_front": "camera_front/000532.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000532.json",
+      "lidar_vlp16": "lidar_vlp16/000532.txt",
+      "radar_6455": "radar_6455/000532.txt"
+    },
+    "533": {
+      "calibration": "calibration/000533.json",
+      "camera_front": "camera_front/000533.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000533.json",
+      "lidar_vlp16": "lidar_vlp16/000533.txt",
+      "radar_6455": "radar_6455/000533.txt"
+    },
+    "534": {
+      "calibration": "calibration/000534.json",
+      "camera_front": "camera_front/000534.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000534.json",
+      "lidar_vlp16": "lidar_vlp16/000534.txt",
+      "radar_6455": "radar_6455/000534.txt"
+    },
+    "535": {
+      "calibration": "calibration/000535.json",
+      "camera_front": "camera_front/000535.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000535.json",
+      "lidar_vlp16": "lidar_vlp16/000535.txt",
+      "radar_6455": "radar_6455/000535.txt"
+    },
+    "536": {
+      "calibration": "calibration/000536.json",
+      "camera_front": "camera_front/000536.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000536.json",
+      "lidar_vlp16": "lidar_vlp16/000536.txt",
+      "radar_6455": "radar_6455/000536.txt"
+    },
+    "537": {
+      "calibration": "calibration/000537.json",
+      "camera_front": "camera_front/000537.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000537.json",
+      "lidar_vlp16": "lidar_vlp16/000537.txt",
+      "radar_6455": "radar_6455/000537.txt"
+    },
+    "538": {
+      "calibration": "calibration/000538.json",
+      "camera_front": "camera_front/000538.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000538.json",
+      "lidar_vlp16": "lidar_vlp16/000538.txt",
+      "radar_6455": "radar_6455/000538.txt"
+    },
+    "539": {
+      "calibration": "calibration/000539.json",
+      "camera_front": "camera_front/000539.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000539.json",
+      "lidar_vlp16": "lidar_vlp16/000539.txt",
+      "radar_6455": "radar_6455/000539.txt"
+    },
+    "540": {
+      "calibration": "calibration/000540.json",
+      "camera_front": "camera_front/000540.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000540.json",
+      "lidar_vlp16": "lidar_vlp16/000540.txt",
+      "radar_6455": "radar_6455/000540.txt"
+    },
+    "541": {
+      "calibration": "calibration/000541.json",
+      "camera_front": "camera_front/000541.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000541.json",
+      "lidar_vlp16": "lidar_vlp16/000541.txt",
+      "radar_6455": "radar_6455/000541.txt"
+    },
+    "542": {
+      "calibration": "calibration/000542.json",
+      "camera_front": "camera_front/000542.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000542.json",
+      "lidar_vlp16": "lidar_vlp16/000542.txt",
+      "radar_6455": "radar_6455/000542.txt"
+    },
+    "543": {
+      "calibration": "calibration/000543.json",
+      "camera_front": "camera_front/000543.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000543.json",
+      "lidar_vlp16": "lidar_vlp16/000543.txt",
+      "radar_6455": "radar_6455/000543.txt"
+    },
+    "544": {
+      "calibration": "calibration/000544.json",
+      "camera_front": "camera_front/000544.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000544.json",
+      "lidar_vlp16": "lidar_vlp16/000544.txt",
+      "radar_6455": "radar_6455/000544.txt"
+    },
+    "545": {
+      "calibration": "calibration/000545.json",
+      "camera_front": "camera_front/000545.jpg",
+      "groundtruth_obj3d": "groundtruth_obj3d/000545.json",
+      "lidar_vlp16": "lidar_vlp16/000545.txt",
+      "radar_6455": "radar_6455/000545.txt"
+    }
+  },
+  "dataset_type": "Astyx_HiRes",
+  "sensors": [
+    {
+      "data_reader": "DataReader_Lidar",
+      "sensor_flags": "",
+      "sensor_type": "lidar",
+      "sensor_uid": "lidar_vlp16"
+    },
+    {
+      "data_reader": "DataReader_Calibration_Astyx",
+      "sensor_flags": "",
+      "sensor_type": "calibration",
+      "sensor_uid": "calibration"
+    },
+    {
+      "data_reader": "DataReader_Camera",
+      "sensor_flags": "",
+      "sensor_type": "camera",
+      "sensor_uid": "camera_front"
+    },
+    {
+      "data_reader": "DataReader_Obj3D_Astyx",
+      "sensor_flags": "groundtruth",
+      "sensor_type": "labels_object3d",
+      "sensor_uid": "groundtruth_obj3d"
+    },
+    {
+      "data_reader": "DataReader_Radar_HiRes3D",
+      "sensor_flags": "",
+      "sensor_type": "radar",
+      "sensor_uid": "radar_6455"
+    }
+  ]
+}

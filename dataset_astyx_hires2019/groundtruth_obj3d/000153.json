@@ -1,0 +1,65 @@
+{
+    "frame_flag": "",
+    "frame_index": 523,
+    "header": "Astyx Version_01_00",
+    "objects": [
+        {
+            "center3d": [
+                17.39,
+                -2.05,
+                0.21
+            ],
+            "classname": "Person",
+            "created_by": "m.meyer",
+            "dimension3d": [
+                0.99,
+                0.55,
+                1.66
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.9698169451532967,
+                -0.03548859914915919,
+                -0.009397710054717009,
+                0.24105463129690136
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                32.42,
+                -5.48,
+                0.46
+            ],
+            "classname": "Car",
+            "created_by": "m.meyer",
+            "dimension3d": [
+                4.0,
+                1.8,
+                1.5
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                0.930543358640932,
+                -0.06144299990571644,
+                -0.006961726563877548,
+                0.36092291395128945
+            ],
+            "score": -1.0
+        }
+    ]
+}

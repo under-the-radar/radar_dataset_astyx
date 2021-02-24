@@ -1,0 +1,181 @@
+{
+    "frame_flag": "",
+    "frame_index": 3739,
+    "header": "Astyx Version_01_00",
+    "objects": [
+        {
+            "center3d": [
+                11.07456669093072,
+                5.17841113716384,
+                -0.45217380155246445
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                5.049063398658573,
+                1.81,
+                1.83
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                -0.008143839554128627,
+                -0.011498196356087221,
+                0.014608865557230264,
+                0.9997940039853231
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                51.04,
+                5.87,
+                0.52
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                3.87,
+                1.75,
+                1.53
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                0.00382851842489243,
+                -0.01379356898901542,
+                0.014423186658493086,
+                0.9997935044737137
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                32.87,
+                5.49,
+                0.15
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                3.83,
+                1.66,
+                1.45
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                -0.009593100785708073,
+                -0.01359110584236847,
+                0.014606721418999876,
+                0.9997549189419799
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                17.05,
+                5.42,
+                -0.36
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                4.15,
+                1.8,
+                1.5
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                -0.021308981496734845,
+                -0.01130116272425274,
+                0.031737649826057035,
+                0.9992051504131524
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                21.99,
+                5.39,
+                -0.25
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                4.0,
+                1.8,
+                1.4
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                0.025558173549609035,
+                0.010739139555206638,
+                -0.0194277928169759,
+                -0.9994268415010088
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                38.52,
+                5.58,
+                0.29
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                4.26,
+                1.73,
+                1.5
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                0.02387661013056607,
+                0.01096126885564269,
+                -0.01851697091443649,
+                -0.9994833064448356
+            ],
+            "score": -1.0
+        }
+    ]
+}

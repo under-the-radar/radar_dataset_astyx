@@ -1,0 +1,152 @@
+{
+    "frame_flag": "",
+    "frame_index": 1095,
+    "header": "Astyx Version_01_00",
+    "objects": [
+        {
+            "center3d": [
+                13.52,
+                4.38,
+                -0.32
+            ],
+            "classname": "Car",
+            "created_by": "s.schmidt",
+            "dimension3d": [
+                4.01,
+                1.65,
+                1.56
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.10704201713078902,
+                0.014126989675746729,
+                -0.033898497365379976,
+                -0.9935760296060099
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                18.88,
+                5.01,
+                -0.19
+            ],
+            "classname": "Car",
+            "created_by": "s.schmidt",
+            "dimension3d": [
+                4.0,
+                1.8,
+                1.5
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                0.10073081575201313,
+                0.014340551112066068,
+                -0.03378833346164496,
+                -0.9942363903386463
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                85.6,
+                10.35,
+                3.62
+            ],
+            "classname": "Bus",
+            "created_by": "s.schmidt",
+            "dimension3d": [
+                11.49,
+                2.56,
+                2.83
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.9978144182825615,
+                -0.02469624578545155,
+                -0.019926537117339462,
+                0.05796046264523312
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                28.55000000000007,
+                0.5799999999999983,
+                0.550000000000002
+            ],
+            "classname": "Car",
+            "created_by": "s.schmidt",
+            "dimension3d": [
+                4.0,
+                1.64,
+                1.5
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.9976493707794911,
+                -0.02006506558313677,
+                -0.01937697589262999,
+                0.06259120490681006
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                34.280079984493156,
+                1.427451439677332,
+                0.8193357715834292
+            ],
+            "classname": "Car",
+            "created_by": "s.schmidt",
+            "dimension3d": [
+                4.13,
+                1.8,
+                1.5
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                0.9968674703389321,
+                -0.021953811029796794,
+                -0.02054287152918937,
+                0.07315235601579502
+            ],
+            "score": -1.0
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "frame_flag": "",
+    "frame_index": 307,
+    "header": "Astyx Version_01_00",
+    "objects": [
+        {
+            "center3d": [
+                58.78,
+                1.33,
+                2.52
+            ],
+            "classname": "Car",
+            "created_by": "g.kuschk",
+            "dimension3d": [
+                4.37,
+                1.92,
+                2.01
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.9993947781642147,
+                -0.02732416230228997,
+                -0.01914425579400756,
+                0.009847080921365714
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                53.72,
+                -2.19,
+                2.17
+            ],
+            "classname": "Car",
+            "created_by": "g.kuschk",
+            "dimension3d": [
+                4.16,
+                1.74,
+                1.59
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.9994289531221405,
+                -0.02723737313197111,
+                -0.019266781166455846,
+                0.005355773476927825
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                36.5,
+                -11.03,
+                1.66
+            ],
+            "classname": "Car",
+            "created_by": "g.kuschk",
+            "dimension3d": [
+                3.6,
+                1.77,
+                1.6
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.9408139353027525,
+                -0.019012777005321262,
+                -0.027422268888068875,
+                -0.3372768486269476
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                17.56,
+                9.66,
+                -0.47
+            ],
+            "classname": "Car",
+            "created_by": "g.kuschk",
+            "dimension3d": [
+                3.86,
+                1.75,
+                1.5
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                -0.02253730926017674,
+                -0.018795577729498414,
+                0.02756556628535306,
+                0.9991891390044696
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                51.09,
+                10.12,
+                1.28
+            ],
+            "classname": "Car",
+            "created_by": "g.kuschk",
+            "dimension3d": [
+                3.98,
+                1.67,
+                1.55
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                -0.017312478091284767,
+                -0.01893936921270461,
+                0.02746643709171903,
+                0.9992933369284769
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                58.09,
+                -21.62,
+                3.1
+            ],
+            "classname": "Car",
+            "created_by": "g.kuschk",
+            "dimension3d": [
+                3.82,
+                1.72,
+                1.51
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                0.8550988020589906,
+                -0.033262840630242596,
+                -0.0025634945232439247,
+                0.5173906170837618
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                55.93,
+                -26.73,
+                3.25
+            ],
+            "classname": "Car",
+            "created_by": "g.kuschk",
+            "dimension3d": [
+                3.88,
+                1.72,
+                1.53
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                0.8408443327850289,
+                -0.033319845811203855,
+                -0.0016661171761741425,
+                0.5402479245235215
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                6.92,
+                6.3,
+                -0.88
+            ],
+            "classname": "Car",
+            "created_by": "g.kuschk",
+            "dimension3d": [
+                4.14,
+                1.76,
+                1.5
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 2,
+            "orientation_quat": [
+                -0.006961305719478756,
+                -0.01922257063876536,
+                0.027271659022251954,
+                0.9994189760130091
+            ],
+            "score": -1.0
+        }
+    ]
+}

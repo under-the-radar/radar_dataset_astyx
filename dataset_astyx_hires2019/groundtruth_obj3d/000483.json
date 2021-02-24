@@ -1,0 +1,152 @@
+{
+    "frame_flag": "",
+    "frame_index": 2642,
+    "header": "Astyx Version_01_00",
+    "objects": [
+        {
+            "center3d": [
+                12.86,
+                5.36,
+                -0.48
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                3.79,
+                1.47,
+                1.49
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                -0.1271772918586704,
+                0.015466977021712102,
+                -0.012611395387499436,
+                -0.9916792131348144
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                46.25,
+                6.65,
+                0.72
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                4.08,
+                1.8,
+                1.74
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.006673828639683656,
+                0.0136420971015241,
+                -0.014568114450921902,
+                -0.999778537096744
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                24.154427703248576,
+                -2.113210666683538,
+                0.45287242578471776
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                3.607670369423746,
+                1.4624173522875434,
+                1.7582390495166569
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.43721894396042316,
+                -0.01891841619819167,
+                0.007123590319368505,
+                0.8991278791315762
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                27.61,
+                0.74,
+                0.44
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                4.21,
+                1.66,
+                1.83
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                0.5028243722838424,
+                -0.01915478037929972,
+                0.005602482922678729,
+                0.8641581783510944
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                15.314503436068097,
+                9.00904031048526,
+                -0.5513692280776297
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                4.42,
+                1.67,
+                1.49
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                -0.12157898957349196,
+                0.015393633091569844,
+                -0.01269831796741318,
+                -0.9923811455662233
+            ],
+            "score": -1.0
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "frame_flag": "",
+    "frame_index": 515,
+    "header": "Astyx Version_01_00",
+    "objects": [
+        {
+            "center3d": [
+                23.564056728303772,
+                -9.712033720060118,
+                1.394761446137324
+            ],
+            "classname": "Car",
+            "created_by": "m.meyer",
+            "dimension3d": [
+                3.6363342579965745,
+                1.6678282542272143,
+                1.6216750877463497
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.3875677117847066,
+                -0.02875821787200475,
+                0.02279379746017897,
+                0.9211105669159037
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                14.588922893786588,
+                0.8512946582282729,
+                -0.19866951848564754
+            ],
+            "classname": "Car",
+            "created_by": "m.meyer",
+            "dimension3d": [
+                4.241095254957984,
+                1.8,
+                1.623535987975277
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.47558438421380117,
+                -0.038045176591396106,
+                0.023774369912173552,
+                0.8785253766200429
+            ],
+            "score": -1.0
+        }
+    ]
+}

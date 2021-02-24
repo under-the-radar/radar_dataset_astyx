@@ -1,0 +1,65 @@
+{
+    "frame_flag": "",
+    "frame_index": 2661,
+    "header": "Astyx Version_01_00",
+    "objects": [
+        {
+            "center3d": [
+                36.09,
+                -17.75,
+                1.45
+            ],
+            "classname": "Motorcyclist",
+            "created_by": "g.kuschk",
+            "dimension3d": [
+                2.0,
+                1.03,
+                1.5
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.7115497966001118,
+                -0.021005705987773158,
+                0.004687250607777707,
+                0.7023059710382895
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                44.831859389017104,
+                3.0759350726646346,
+                0.7651375585197586
+            ],
+            "classname": "Car",
+            "created_by": "g.kuschk",
+            "dimension3d": [
+                4.0811494530900925,
+                1.69,
+                1.65
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.014103087584564735,
+                -0.011669561248782668,
+                0.018083341381619617,
+                0.9996689037002796
+            ],
+            "score": -1.0
+        }
+    ]
+}

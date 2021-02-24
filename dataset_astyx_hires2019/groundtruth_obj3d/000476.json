@@ -1,0 +1,94 @@
+{
+    "frame_flag": "",
+    "frame_index": 2560,
+    "header": "Astyx Version_01_00",
+    "objects": [
+        {
+            "center3d": [
+                59.03495569806804,
+                12.624615655432738,
+                0.4909272637521219
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                3.762,
+                1.5000286917034311,
+                1.5161431264708862
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.05790761975716806,
+                0.012867726929033426,
+                -0.015248451329846476,
+                -0.9981225445353794
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                38.986151681014476,
+                -2.6183031809903943,
+                0.24163434199570508
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                4.089,
+                1.785,
+                1.5069060877421787
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.9995016129926174,
+                -0.014808466048796654,
+                -0.013368334431646232,
+                0.024464721395540005
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                92.7,
+                16.97,
+                1.75
+            ],
+            "classname": "Car",
+            "created_by": "unknown_user",
+            "dimension3d": [
+                4.49,
+                1.93,
+                2.34
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.06947159428416357,
+                0.010011512360866863,
+                -0.019020409216870367,
+                -0.9973523405703161
+            ],
+            "score": -1.0
+        }
+    ]
+}

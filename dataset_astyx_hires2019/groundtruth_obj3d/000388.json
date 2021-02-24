@@ -1,0 +1,268 @@
+{
+    "frame_flag": "",
+    "frame_index": 39,
+    "header": "Astyx Version_01_00",
+    "objects": [
+        {
+            "center3d": [
+                50.78,
+                7.63,
+                1.42
+            ],
+            "classname": "Trailer",
+            "created_by": "brodbot-117",
+            "dimension3d": [
+                5.79,
+                2.11,
+                2.51
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "camera": 0,
+                "lidar": 0,
+                "radar": 0
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                -0.023446087917792614,
+                -0.026742563213527578,
+                0.03213353123176227,
+                0.9988506156801923
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                57.28,
+                7.63,
+                1.27
+            ],
+            "classname": "Car",
+            "created_by": "brodbot-117",
+            "dimension3d": [
+                4.28,
+                1.78,
+                1.56
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                -0.008560183165339812,
+                -0.017365729392399047,
+                0.032307999236151706,
+                0.9992904221957712
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                47.2,
+                -3.21,
+                1.75
+            ],
+            "classname": "Other Vehicle",
+            "created_by": "brodbot-117",
+            "dimension3d": [
+                3.23,
+                1.06,
+                1.45
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "camera": 0,
+                "lidar": 0,
+                "radar": 0
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.9993274852615469,
+                -0.03216051596623208,
+                -0.017613605368879084,
+                0.0001982915224614289
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                55.13,
+                -2.82,
+                2.42
+            ],
+            "classname": "Trailer",
+            "created_by": "brodbot-117",
+            "dimension3d": [
+                4.43,
+                1.73,
+                2.29
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "camera": 0,
+                "lidar": 0,
+                "radar": 0
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                0.9993268632448938,
+                -0.03215311402875095,
+                -0.017660075932213085,
+                -0.00034550462190658
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                62.43,
+                -2.67,
+                2.33
+            ],
+            "classname": "Car",
+            "created_by": "brodbot-117",
+            "dimension3d": [
+                4.08,
+                1.95,
+                1.44
+            ],
+            "label_certainty": 2,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                0.999207236996998,
+                -0.03242682084623473,
+                -0.017166948617447914,
+                0.015449747499466168
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                26.605462199560513,
+                13.298970601882525,
+                -0.3021227118429748
+            ],
+            "classname": "Person",
+            "created_by": "brodbot-117",
+            "dimension3d": [
+                0.4983988918254634,
+                0.5169081971960744,
+                1.8426625078080086
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                -0.03700883523738689,
+                -0.016466522443157907,
+                0.03278977348620138,
+                0.9986410919383022
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                27.1,
+                12.64,
+                -0.21
+            ],
+            "classname": "Person",
+            "created_by": "brodbot-117",
+            "dimension3d": [
+                0.52,
+                0.49,
+                1.92
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                -0.08879442294616789,
+                -0.01473700591588216,
+                0.033600433314082606,
+                0.9953739910161398
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                26.86,
+                11.74,
+                -0.22
+            ],
+            "classname": "Person",
+            "created_by": "brodbot-117",
+            "dimension3d": [
+                0.51,
+                0.46,
+                1.72
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                -0.06782341841179668,
+                -0.015444995171383018,
+                0.033282332376876146,
+                0.9970224282284975
+            ],
+            "score": -1.0
+        },
+        {
+            "center3d": [
+                51.02,
+                13.58,
+                0.77
+            ],
+            "classname": "Person",
+            "created_by": "brodbot-117",
+            "dimension3d": [
+                0.5,
+                0.41,
+                1.73
+            ],
+            "label_certainty": 1,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 1,
+            "orientation_quat": [
+                -0.03590095669702109,
+                -0.016496041952405224,
+                0.0327713627172661,
+                0.9986816508246242
+            ],
+            "score": -1.0
+        }
+    ]
+}

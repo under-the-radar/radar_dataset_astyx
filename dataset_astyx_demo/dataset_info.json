@@ -1,0 +1,83 @@
+{
+  "data": {
+    "0": {
+      "calibration": "calibration/000000.json",
+      "camera_bfly": "camera_bfly/000000.png",
+      "canbus": "canbus/000000.json",
+      "groundtruth_obj3d": "groundtruth_obj3d/000000.json",
+      "lidar_os1": "lidar_os1/000000.txt",
+      "radar_hires1": "radar_hires1/000000.txt"
+    },
+    "1": {
+      "calibration": "calibration/000001.json",
+      "camera_bfly": "camera_bfly/000001.png",
+      "canbus": "canbus/000001.json",
+      "groundtruth_obj3d": "groundtruth_obj3d/000001.json",
+      "lidar_os1": "lidar_os1/000001.txt",
+      "radar_hires1": "radar_hires1/000001.txt"
+    },
+    "2": {
+      "calibration": "calibration/000002.json",
+      "camera_bfly": "camera_bfly/000002.png",
+      "canbus": "canbus/000002.json",
+      "groundtruth_obj3d": "groundtruth_obj3d/000002.json",
+      "lidar_os1": "lidar_os1/000002.txt",
+      "radar_hires1": "radar_hires1/000002.txt"
+    },
+    "3": {
+      "calibration": "calibration/000003.json",
+      "camera_bfly": "camera_bfly/000003.png",
+      "canbus": "canbus/000003.json",
+      "groundtruth_obj3d": "groundtruth_obj3d/000003.json",
+      "lidar_os1": "lidar_os1/000003.txt",
+      "radar_hires1": "radar_hires1/000003.txt"
+    },
+    "4": {
+      "calibration": "calibration/000004.json",
+      "camera_bfly": "camera_bfly/000004.png",
+      "canbus": "canbus/000004.json",
+      "groundtruth_obj3d": "groundtruth_obj3d/000004.json",
+      "lidar_os1": "lidar_os1/000004.txt",
+      "radar_hires1": "radar_hires1/000004.txt"
+    }
+  },
+  "dataset_type": "Astyx_HighRes",
+  "sensors": [
+    {
+      "data_reader": "DataReader_Camera",
+      "sensor_flags": "",
+      "sensor_type": "camera",
+      "sensor_uid": "camera_bfly"
+    },
+    {
+      "data_reader": "DataReader_Lidar",
+      "sensor_flags": "",
+      "sensor_type": "lidar",
+      "sensor_uid": "lidar_os1"
+    },
+    {
+      "data_reader": "DataReader_Canbus",
+      "sensor_flags": "",
+      "sensor_type": "canbus",
+      "sensor_uid": "canbus"
+    },
+    {
+      "data_reader": "DataReader_Radar_HiRes3D",
+      "sensor_flags": "",
+      "sensor_type": "radar",
+      "sensor_uid": "radar_hires1"
+    },
+    {
+      "data_reader": "DataReader_Calibration_Astyx",
+      "sensor_flags": "",
+      "sensor_type": "calibration",
+      "sensor_uid": "calibration"
+    },
+    {
+      "data_reader": "DataReader_Obj3D_Astyx",
+      "sensor_flags": "groundtruth",
+      "sensor_type": "labels_object3d",
+      "sensor_uid": "groundtruth_obj3d"
+    }
+  ]
+}

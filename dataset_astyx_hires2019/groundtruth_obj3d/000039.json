@@ -1,0 +1,36 @@
+{
+    "frame_flag": "",
+    "frame_index": 147,
+    "header": "Astyx Version_01_00",
+    "objects": [
+        {
+            "center3d": [
+                26.36,
+                9.99,
+                -0.21
+            ],
+            "classname": "Person",
+            "created_by": "g.kuschk",
+            "dimension3d": [
+                0.5,
+                0.7,
+                1.8
+            ],
+            "label_certainty": 0,
+            "measured_by": {
+                "Camera": 1,
+                "Lidar": 1,
+                "Radar": 1
+            },
+            "object_id": -1,
+            "occlusion": 0,
+            "orientation_quat": [
+                0.9990465311984655,
+                -0.031730218014223,
+                -0.01842883468904627,
+                -0.023655862213985947
+            ],
+            "score": -1.0
+        }
+    ]
+}
